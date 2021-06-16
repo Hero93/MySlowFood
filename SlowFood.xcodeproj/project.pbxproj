@@ -1,0 +1,870 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		33534445DEAD3C955AE372A3 /* Pods_SlowFood_SlowFoodUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 815068C12AD3DA57C8FBE859 /* Pods_SlowFood_SlowFoodUITests.framework */; };
+		4B00F28C2673E8A0009C7D47 /* BundleJsonPlacesHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B00F28B2673E8A0009C7D47 /* BundleJsonPlacesHelpers.swift */; };
+		4B00F29F267401EB009C7D47 /* PlaceDetailsLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B00F29E267401EB009C7D47 /* PlaceDetailsLoader.swift */; };
+		4B00F2A426740370009C7D47 /* GoogleMapsPlaceDetailsLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B00F2A326740370009C7D47 /* GoogleMapsPlaceDetailsLoader.swift */; };
+		4B317D9A2671563F00E2C0B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317D992671563F00E2C0B0 /* AppDelegate.swift */; };
+		4B317D9C2671563F00E2C0B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317D9B2671563F00E2C0B0 /* SceneDelegate.swift */; };
+		4B317D9E2671563F00E2C0B0 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317D9D2671563F00E2C0B0 /* MapViewController.swift */; };
+		4B317DA12671563F00E2C0B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B317D9F2671563F00E2C0B0 /* Main.storyboard */; };
+		4B317DA32671564B00E2C0B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B317DA22671564B00E2C0B0 /* Assets.xcassets */; };
+		4B317DA62671564B00E2C0B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B317DA42671564B00E2C0B0 /* LaunchScreen.storyboard */; };
+		4B317DB12671564B00E2C0B0 /* SlowFoodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317DB02671564B00E2C0B0 /* SlowFoodTests.swift */; };
+		4B317DBC2671564C00E2C0B0 /* SlowFoodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317DBB2671564C00E2C0B0 /* SlowFoodUITests.swift */; };
+		4B317DD02671566D00E2C0B0 /* oil.json in Resources */ = {isa = PBXBuildFile; fileRef = 4B317DCC2671566D00E2C0B0 /* oil.json */; };
+		4B317DD12671566D00E2C0B0 /* shops.json in Resources */ = {isa = PBXBuildFile; fileRef = 4B317DCD2671566D00E2C0B0 /* shops.json */; };
+		4B317DD22671566D00E2C0B0 /* osterie.json in Resources */ = {isa = PBXBuildFile; fileRef = 4B317DCE2671566D00E2C0B0 /* osterie.json */; };
+		4B317DD32671566D00E2C0B0 /* wine.json in Resources */ = {isa = PBXBuildFile; fileRef = 4B317DCF2671566D00E2C0B0 /* wine.json */; };
+		4B317DDC2671577100E2C0B0 /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317DDB2671577100E2C0B0 /* Place.swift */; };
+		4B317DE2267158D200E2C0B0 /* PlaceJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317DE1267158D200E2C0B0 /* PlaceJson.swift */; };
+		4B317DED2671592700E2C0B0 /* PlacesLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317DEC2671592700E2C0B0 /* PlacesLoader.swift */; };
+		4B317E2026715BFF00E2C0B0 /* BundleJsonPlacesLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317E1F26715BFF00E2C0B0 /* BundleJsonPlacesLoader.swift */; };
+		4B317E2826715D0200E2C0B0 /* PlacesMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B317E2726715D0200E2C0B0 /* PlacesMapper.swift */; };
+		4BD47D8C2675319500C0B849 /* PlaceAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD47D8B2675319400C0B849 /* PlaceAnnotation.swift */; };
+		4BD47D94267531A600C0B849 /* SelectedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD47D93267531A600C0B849 /* SelectedButton.swift */; };
+		4BD47D99267531CC00C0B849 /* PlacesMapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD47D98267531CC00C0B849 /* PlacesMapViewModel.swift */; };
+		4BDEE6FD2676988C00D473B5 /* PlaceDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDEE6FC2676988C00D473B5 /* PlaceDetailsViewController.swift */; };
+		4BDEE7092676A30500D473B5 /* PlaceDetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDEE7082676A30500D473B5 /* PlaceDetailsViewModel.swift */; };
+		93CEFB56AE8A5019C4B4EA98 /* Pods_SlowFoodTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFCF58979210BA749CA8B3ED /* Pods_SlowFoodTests.framework */; };
+		D95DAF6790B1D9A4473323A6 /* Pods_SlowFood.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6CA9F7963DC87A6F9425592 /* Pods_SlowFood.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4B317DAD2671564B00E2C0B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B317D8E2671563F00E2C0B0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4B317D952671563F00E2C0B0;
+			remoteInfo = SlowFood;
+		};
+		4B317DB82671564C00E2C0B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4B317D8E2671563F00E2C0B0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4B317D952671563F00E2C0B0;
+			remoteInfo = SlowFood;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3DA0E657E81ACC86C898943F /* Pods-SlowFood-SlowFoodUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SlowFood-SlowFoodUITests.debug.xcconfig"; path = "Target Support Files/Pods-SlowFood-SlowFoodUITests/Pods-SlowFood-SlowFoodUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		48B11340E9E2F4FB37272736 /* Pods-SlowFoodTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SlowFoodTests.debug.xcconfig"; path = "Target Support Files/Pods-SlowFoodTests/Pods-SlowFoodTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4B00F28B2673E8A0009C7D47 /* BundleJsonPlacesHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleJsonPlacesHelpers.swift; sourceTree = "<group>"; };
+		4B00F29E267401EB009C7D47 /* PlaceDetailsLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceDetailsLoader.swift; sourceTree = "<group>"; };
+		4B00F2A326740370009C7D47 /* GoogleMapsPlaceDetailsLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleMapsPlaceDetailsLoader.swift; sourceTree = "<group>"; };
+		4B317D962671563F00E2C0B0 /* SlowFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlowFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B317D992671563F00E2C0B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4B317D9B2671563F00E2C0B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4B317D9D2671563F00E2C0B0 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		4B317DA02671563F00E2C0B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4B317DA22671564B00E2C0B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4B317DA52671564B00E2C0B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4B317DA72671564B00E2C0B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B317DAC2671564B00E2C0B0 /* SlowFoodTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlowFoodTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B317DB02671564B00E2C0B0 /* SlowFoodTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlowFoodTests.swift; sourceTree = "<group>"; };
+		4B317DB22671564C00E2C0B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B317DB72671564C00E2C0B0 /* SlowFoodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlowFoodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B317DBB2671564C00E2C0B0 /* SlowFoodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlowFoodUITests.swift; sourceTree = "<group>"; };
+		4B317DBD2671564C00E2C0B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B317DCC2671566D00E2C0B0 /* oil.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = oil.json; sourceTree = "<group>"; };
+		4B317DCD2671566D00E2C0B0 /* shops.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = shops.json; sourceTree = "<group>"; };
+		4B317DCE2671566D00E2C0B0 /* osterie.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = osterie.json; sourceTree = "<group>"; };
+		4B317DCF2671566D00E2C0B0 /* wine.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = wine.json; sourceTree = "<group>"; };
+		4B317DDB2671577100E2C0B0 /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
+		4B317DE1267158D200E2C0B0 /* PlaceJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceJson.swift; sourceTree = "<group>"; };
+		4B317DEC2671592700E2C0B0 /* PlacesLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesLoader.swift; sourceTree = "<group>"; };
+		4B317E1F26715BFF00E2C0B0 /* BundleJsonPlacesLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleJsonPlacesLoader.swift; sourceTree = "<group>"; };
+		4B317E2726715D0200E2C0B0 /* PlacesMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesMapper.swift; sourceTree = "<group>"; };
+		4BD47D8B2675319400C0B849 /* PlaceAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceAnnotation.swift; sourceTree = "<group>"; };
+		4BD47D93267531A600C0B849 /* SelectedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedButton.swift; sourceTree = "<group>"; };
+		4BD47D98267531CC00C0B849 /* PlacesMapViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesMapViewModel.swift; sourceTree = "<group>"; };
+		4BDEE6FC2676988C00D473B5 /* PlaceDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceDetailsViewController.swift; sourceTree = "<group>"; };
+		4BDEE7082676A30500D473B5 /* PlaceDetailsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceDetailsViewModel.swift; sourceTree = "<group>"; };
+		5A795FA0E8ACF371C4F1B725 /* Pods-SlowFoodTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SlowFoodTests.release.xcconfig"; path = "Target Support Files/Pods-SlowFoodTests/Pods-SlowFoodTests.release.xcconfig"; sourceTree = "<group>"; };
+		815068C12AD3DA57C8FBE859 /* Pods_SlowFood_SlowFoodUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SlowFood_SlowFoodUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		98871F7C8AD2BBF5F0794349 /* Pods-SlowFood.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SlowFood.debug.xcconfig"; path = "Target Support Files/Pods-SlowFood/Pods-SlowFood.debug.xcconfig"; sourceTree = "<group>"; };
+		A5CE2324A60312DADBEBEE3B /* Pods-SlowFood-SlowFoodUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SlowFood-SlowFoodUITests.release.xcconfig"; path = "Target Support Files/Pods-SlowFood-SlowFoodUITests/Pods-SlowFood-SlowFoodUITests.release.xcconfig"; sourceTree = "<group>"; };
+		BE42104C3EEA3549A7944D3E /* Pods-SlowFood.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SlowFood.release.xcconfig"; path = "Target Support Files/Pods-SlowFood/Pods-SlowFood.release.xcconfig"; sourceTree = "<group>"; };
+		CFCF58979210BA749CA8B3ED /* Pods_SlowFoodTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SlowFoodTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6CA9F7963DC87A6F9425592 /* Pods_SlowFood.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SlowFood.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4B317D932671563F00E2C0B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D95DAF6790B1D9A4473323A6 /* Pods_SlowFood.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4B317DA92671564B00E2C0B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93CEFB56AE8A5019C4B4EA98 /* Pods_SlowFoodTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4B317DB42671564C00E2C0B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				33534445DEAD3C955AE372A3 /* Pods_SlowFood_SlowFoodUITests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4B00F2932673E976009C7D47 /* Place */ = {
+			isa = PBXGroup;
+			children = (
+				4B317DDB2671577100E2C0B0 /* Place.swift */,
+				4B317DE1267158D200E2C0B0 /* PlaceJson.swift */,
+				4B00F29E267401EB009C7D47 /* PlaceDetailsLoader.swift */,
+				4B317DEC2671592700E2C0B0 /* PlacesLoader.swift */,
+				4B317E2726715D0200E2C0B0 /* PlacesMapper.swift */,
+			);
+			path = Place;
+			sourceTree = "<group>";
+		};
+		4B317D8D2671563F00E2C0B0 = {
+			isa = PBXGroup;
+			children = (
+				4B317D982671563F00E2C0B0 /* SlowFood */,
+				4B317DAF2671564B00E2C0B0 /* SlowFoodTests */,
+				4B317DBA2671564C00E2C0B0 /* SlowFoodUITests */,
+				4B317D972671563F00E2C0B0 /* Products */,
+				5C7EA145C386D2A39EBE54A9 /* Pods */,
+				ADCD5316398F472C6950ED6E /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		4B317D972671563F00E2C0B0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4B317D962671563F00E2C0B0 /* SlowFood.app */,
+				4B317DAC2671564B00E2C0B0 /* SlowFoodTests.xctest */,
+				4B317DB72671564C00E2C0B0 /* SlowFoodUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4B317D982671563F00E2C0B0 /* SlowFood */ = {
+			isa = PBXGroup;
+			children = (
+				4BDEE7042676A2C700D473B5 /* PlaceDetails Feature */,
+				4BD47D882675316800C0B849 /* Map Feature */,
+				4B00F2932673E976009C7D47 /* Place */,
+				4B317DD72671567500E2C0B0 /* Resources */,
+				4B317D992671563F00E2C0B0 /* AppDelegate.swift */,
+				4B317D9B2671563F00E2C0B0 /* SceneDelegate.swift */,
+				4B317D9F2671563F00E2C0B0 /* Main.storyboard */,
+				4B317DA22671564B00E2C0B0 /* Assets.xcassets */,
+				4B317DA42671564B00E2C0B0 /* LaunchScreen.storyboard */,
+				4B317DA72671564B00E2C0B0 /* Info.plist */,
+				4B317E1F26715BFF00E2C0B0 /* BundleJsonPlacesLoader.swift */,
+				4B00F28B2673E8A0009C7D47 /* BundleJsonPlacesHelpers.swift */,
+			);
+			path = SlowFood;
+			sourceTree = "<group>";
+		};
+		4B317DAF2671564B00E2C0B0 /* SlowFoodTests */ = {
+			isa = PBXGroup;
+			children = (
+				4B317DB02671564B00E2C0B0 /* SlowFoodTests.swift */,
+				4B317DB22671564C00E2C0B0 /* Info.plist */,
+			);
+			path = SlowFoodTests;
+			sourceTree = "<group>";
+		};
+		4B317DBA2671564C00E2C0B0 /* SlowFoodUITests */ = {
+			isa = PBXGroup;
+			children = (
+				4B317DBB2671564C00E2C0B0 /* SlowFoodUITests.swift */,
+				4B317DBD2671564C00E2C0B0 /* Info.plist */,
+			);
+			path = SlowFoodUITests;
+			sourceTree = "<group>";
+		};
+		4B317DD72671567500E2C0B0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4B317DCD2671566D00E2C0B0 /* shops.json */,
+				4B317DCC2671566D00E2C0B0 /* oil.json */,
+				4B317DCE2671566D00E2C0B0 /* osterie.json */,
+				4B317DCF2671566D00E2C0B0 /* wine.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4BD47D882675316800C0B849 /* Map Feature */ = {
+			isa = PBXGroup;
+			children = (
+				4BD47D8B2675319400C0B849 /* PlaceAnnotation.swift */,
+				4BD47D93267531A600C0B849 /* SelectedButton.swift */,
+				4B317D9D2671563F00E2C0B0 /* MapViewController.swift */,
+				4BD47D98267531CC00C0B849 /* PlacesMapViewModel.swift */,
+			);
+			path = "Map Feature";
+			sourceTree = "<group>";
+		};
+		4BDEE7042676A2C700D473B5 /* PlaceDetails Feature */ = {
+			isa = PBXGroup;
+			children = (
+				4B00F2A326740370009C7D47 /* GoogleMapsPlaceDetailsLoader.swift */,
+				4BDEE6FC2676988C00D473B5 /* PlaceDetailsViewController.swift */,
+				4BDEE7082676A30500D473B5 /* PlaceDetailsViewModel.swift */,
+			);
+			path = "PlaceDetails Feature";
+			sourceTree = "<group>";
+		};
+		5C7EA145C386D2A39EBE54A9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				98871F7C8AD2BBF5F0794349 /* Pods-SlowFood.debug.xcconfig */,
+				BE42104C3EEA3549A7944D3E /* Pods-SlowFood.release.xcconfig */,
+				3DA0E657E81ACC86C898943F /* Pods-SlowFood-SlowFoodUITests.debug.xcconfig */,
+				A5CE2324A60312DADBEBEE3B /* Pods-SlowFood-SlowFoodUITests.release.xcconfig */,
+				48B11340E9E2F4FB37272736 /* Pods-SlowFoodTests.debug.xcconfig */,
+				5A795FA0E8ACF371C4F1B725 /* Pods-SlowFoodTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		ADCD5316398F472C6950ED6E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E6CA9F7963DC87A6F9425592 /* Pods_SlowFood.framework */,
+				815068C12AD3DA57C8FBE859 /* Pods_SlowFood_SlowFoodUITests.framework */,
+				CFCF58979210BA749CA8B3ED /* Pods_SlowFoodTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4B317D952671563F00E2C0B0 /* SlowFood */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4B317DC02671564C00E2C0B0 /* Build configuration list for PBXNativeTarget "SlowFood" */;
+			buildPhases = (
+				15BA5D7B142368A2A38C1388 /* [CP] Check Pods Manifest.lock */,
+				4B317D922671563F00E2C0B0 /* Sources */,
+				4B317D932671563F00E2C0B0 /* Frameworks */,
+				4B317D942671563F00E2C0B0 /* Resources */,
+				89450E850A464DFC7D3AB3E0 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SlowFood;
+			productName = SlowFood;
+			productReference = 4B317D962671563F00E2C0B0 /* SlowFood.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4B317DAB2671564B00E2C0B0 /* SlowFoodTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4B317DC32671564C00E2C0B0 /* Build configuration list for PBXNativeTarget "SlowFoodTests" */;
+			buildPhases = (
+				3559853C045BD6FB96120B22 /* [CP] Check Pods Manifest.lock */,
+				4B317DA82671564B00E2C0B0 /* Sources */,
+				4B317DA92671564B00E2C0B0 /* Frameworks */,
+				4B317DAA2671564B00E2C0B0 /* Resources */,
+				0B53E2FC823E5EDE968FCB02 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4B317DAE2671564B00E2C0B0 /* PBXTargetDependency */,
+			);
+			name = SlowFoodTests;
+			productName = SlowFoodTests;
+			productReference = 4B317DAC2671564B00E2C0B0 /* SlowFoodTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4B317DB62671564C00E2C0B0 /* SlowFoodUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4B317DC62671564C00E2C0B0 /* Build configuration list for PBXNativeTarget "SlowFoodUITests" */;
+			buildPhases = (
+				EA0502559FD1E7A56A65B487 /* [CP] Check Pods Manifest.lock */,
+				4B317DB32671564C00E2C0B0 /* Sources */,
+				4B317DB42671564C00E2C0B0 /* Frameworks */,
+				4B317DB52671564C00E2C0B0 /* Resources */,
+				30E46F1068581FDFB258D237 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4B317DB92671564C00E2C0B0 /* PBXTargetDependency */,
+			);
+			name = SlowFoodUITests;
+			productName = SlowFoodUITests;
+			productReference = 4B317DB72671564C00E2C0B0 /* SlowFoodUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4B317D8E2671563F00E2C0B0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					4B317D952671563F00E2C0B0 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					4B317DAB2671564B00E2C0B0 = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = 4B317D952671563F00E2C0B0;
+					};
+					4B317DB62671564C00E2C0B0 = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = 4B317D952671563F00E2C0B0;
+					};
+				};
+			};
+			buildConfigurationList = 4B317D912671563F00E2C0B0 /* Build configuration list for PBXProject "SlowFood" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4B317D8D2671563F00E2C0B0;
+			productRefGroup = 4B317D972671563F00E2C0B0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4B317D952671563F00E2C0B0 /* SlowFood */,
+				4B317DAB2671564B00E2C0B0 /* SlowFoodTests */,
+				4B317DB62671564C00E2C0B0 /* SlowFoodUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4B317D942671563F00E2C0B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B317DD12671566D00E2C0B0 /* shops.json in Resources */,
+				4B317DA62671564B00E2C0B0 /* LaunchScreen.storyboard in Resources */,
+				4B317DD02671566D00E2C0B0 /* oil.json in Resources */,
+				4B317DD32671566D00E2C0B0 /* wine.json in Resources */,
+				4B317DA32671564B00E2C0B0 /* Assets.xcassets in Resources */,
+				4B317DA12671563F00E2C0B0 /* Main.storyboard in Resources */,
+				4B317DD22671566D00E2C0B0 /* osterie.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4B317DAA2671564B00E2C0B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4B317DB52671564C00E2C0B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0B53E2FC823E5EDE968FCB02 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SlowFoodTests/Pods-SlowFoodTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SlowFoodTests/Pods-SlowFoodTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SlowFoodTests/Pods-SlowFoodTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		15BA5D7B142368A2A38C1388 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SlowFood-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		30E46F1068581FDFB258D237 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SlowFood-SlowFoodUITests/Pods-SlowFood-SlowFoodUITests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SlowFood-SlowFoodUITests/Pods-SlowFood-SlowFoodUITests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SlowFood-SlowFoodUITests/Pods-SlowFood-SlowFoodUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3559853C045BD6FB96120B22 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SlowFoodTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		89450E850A464DFC7D3AB3E0 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SlowFood/Pods-SlowFood-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SlowFood/Pods-SlowFood-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SlowFood/Pods-SlowFood-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EA0502559FD1E7A56A65B487 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SlowFood-SlowFoodUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4B317D922671563F00E2C0B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B317D9E2671563F00E2C0B0 /* MapViewController.swift in Sources */,
+				4B317D9A2671563F00E2C0B0 /* AppDelegate.swift in Sources */,
+				4B317E2026715BFF00E2C0B0 /* BundleJsonPlacesLoader.swift in Sources */,
+				4B317DED2671592700E2C0B0 /* PlacesLoader.swift in Sources */,
+				4BD47D8C2675319500C0B849 /* PlaceAnnotation.swift in Sources */,
+				4B317E2826715D0200E2C0B0 /* PlacesMapper.swift in Sources */,
+				4BDEE6FD2676988C00D473B5 /* PlaceDetailsViewController.swift in Sources */,
+				4B00F29F267401EB009C7D47 /* PlaceDetailsLoader.swift in Sources */,
+				4B00F28C2673E8A0009C7D47 /* BundleJsonPlacesHelpers.swift in Sources */,
+				4B317DE2267158D200E2C0B0 /* PlaceJson.swift in Sources */,
+				4B00F2A426740370009C7D47 /* GoogleMapsPlaceDetailsLoader.swift in Sources */,
+				4B317D9C2671563F00E2C0B0 /* SceneDelegate.swift in Sources */,
+				4BD47D99267531CC00C0B849 /* PlacesMapViewModel.swift in Sources */,
+				4BDEE7092676A30500D473B5 /* PlaceDetailsViewModel.swift in Sources */,
+				4B317DDC2671577100E2C0B0 /* Place.swift in Sources */,
+				4BD47D94267531A600C0B849 /* SelectedButton.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4B317DA82671564B00E2C0B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B317DB12671564B00E2C0B0 /* SlowFoodTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4B317DB32671564C00E2C0B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B317DBC2671564C00E2C0B0 /* SlowFoodUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4B317DAE2671564B00E2C0B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4B317D952671563F00E2C0B0 /* SlowFood */;
+			targetProxy = 4B317DAD2671564B00E2C0B0 /* PBXContainerItemProxy */;
+		};
+		4B317DB92671564C00E2C0B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4B317D952671563F00E2C0B0 /* SlowFood */;
+			targetProxy = 4B317DB82671564C00E2C0B0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		4B317D9F2671563F00E2C0B0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4B317DA02671563F00E2C0B0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4B317DA42671564B00E2C0B0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4B317DA52671564B00E2C0B0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4B317DBE2671564C00E2C0B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4B317DBF2671564C00E2C0B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4B317DC12671564C00E2C0B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 98871F7C8AD2BBF5F0794349 /* Pods-SlowFood.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A8QP38BP6R;
+				INFOPLIST_FILE = SlowFood/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lucagramaglia.SlowFood;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4B317DC22671564C00E2C0B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE42104C3EEA3549A7944D3E /* Pods-SlowFood.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A8QP38BP6R;
+				INFOPLIST_FILE = SlowFood/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lucagramaglia.SlowFood;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4B317DC42671564C00E2C0B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 48B11340E9E2F4FB37272736 /* Pods-SlowFoodTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9U5GB43YDD;
+				INFOPLIST_FILE = SlowFoodTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lucagramaglia.SlowFoodTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SlowFood.app/SlowFood";
+			};
+			name = Debug;
+		};
+		4B317DC52671564C00E2C0B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5A795FA0E8ACF371C4F1B725 /* Pods-SlowFoodTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9U5GB43YDD;
+				INFOPLIST_FILE = SlowFoodTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lucagramaglia.SlowFoodTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SlowFood.app/SlowFood";
+			};
+			name = Release;
+		};
+		4B317DC72671564C00E2C0B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3DA0E657E81ACC86C898943F /* Pods-SlowFood-SlowFoodUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9U5GB43YDD;
+				INFOPLIST_FILE = SlowFoodUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lucagramaglia.SlowFoodUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SlowFood;
+			};
+			name = Debug;
+		};
+		4B317DC82671564C00E2C0B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A5CE2324A60312DADBEBEE3B /* Pods-SlowFood-SlowFoodUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9U5GB43YDD;
+				INFOPLIST_FILE = SlowFoodUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lucagramaglia.SlowFoodUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SlowFood;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4B317D912671563F00E2C0B0 /* Build configuration list for PBXProject "SlowFood" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4B317DBE2671564C00E2C0B0 /* Debug */,
+				4B317DBF2671564C00E2C0B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4B317DC02671564C00E2C0B0 /* Build configuration list for PBXNativeTarget "SlowFood" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4B317DC12671564C00E2C0B0 /* Debug */,
+				4B317DC22671564C00E2C0B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4B317DC32671564C00E2C0B0 /* Build configuration list for PBXNativeTarget "SlowFoodTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4B317DC42671564C00E2C0B0 /* Debug */,
+				4B317DC52671564C00E2C0B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4B317DC62671564C00E2C0B0 /* Build configuration list for PBXNativeTarget "SlowFoodUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4B317DC72671564C00E2C0B0 /* Debug */,
+				4B317DC82671564C00E2C0B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4B317D8E2671563F00E2C0B0 /* Project object */;
+}

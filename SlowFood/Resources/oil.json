@@ -1,0 +1,3362 @@
+[
+   {
+      "id": "15662",
+      "name": "Il Roncal",
+      "address": "Via Fornalis, 148",
+      "city": "Cividale del Friuli",
+      "lat": "46.0713160000000",
+      "lng": "13.4621520000000",
+      "type": "672",
+      "phone": "0432 730138"
+   },
+   {
+      "id": "15471",
+      "name": "Alessio Komjanc e figli",
+      "address": "Località Giasbana, 35",
+      "city": "San Floriano del Collio",
+      "lat": "45.9638375000000",
+      "lng": "13.5510483000000",
+      "type": "672",
+      "phone": "0481 391228"
+   },
+   {
+      "id": "15583",
+      "name": "Castelvecchio",
+      "address": "Via Castelnuovo, 2",
+      "city": "Sagrado",
+      "lat": "45.8725280000000",
+      "lng": "13.4986400000000",
+      "type": "672",
+      "phone": "0481 99742"
+   },
+   {
+      "id": "15470",
+      "name": "Rado Kocjancic",
+      "address": "Località Crogole, 11",
+      "city": "San Dorligo della Valle",
+      "lat": "45.6039985000000",
+      "lng": "13.8529046000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15469",
+      "name": "Lenardon",
+      "address": "Località Pisciolon, 37",
+      "city": "Muggia",
+      "lat": "45.5968041000000",
+      "lng": "13.7544483000000",
+      "type": "672",
+      "phone": "040 275020"
+   },
+   {
+      "id": "15472",
+      "name": "I Due Fratelli Botter",
+      "address": "Via Collalto, 8",
+      "city": "Asolo",
+      "lat": "45.8021900000000",
+      "lng": "11.9201300000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15473",
+      "name": "Vigneto Due Santi",
+      "address": "Viale Asiago, 174",
+      "city": "Bassano del Grappa",
+      "lat": "45.7712000000000",
+      "lng": "11.7064000000000",
+      "type": "672",
+      "phone": "0424 502074"
+   },
+   {
+      "id": "15549",
+      "name": "Roberto Possia",
+      "address": "Via Fontecchio, 4/2",
+      "city": "Vicenza",
+      "lat": "45.4446920000000",
+      "lng": "11.5796930000000",
+      "type": "672",
+      "phone": "0444 922448"
+   },
+   {
+      "id": "15599",
+      "name": "Agriturismo Marani",
+      "address": "Via Zambalda, 56",
+      "city": "Arcugnano",
+      "lat": "45.4599651000000",
+      "lng": "11.5306065000000",
+      "type": "672",
+      "phone": "0444 273659"
+   },
+   {
+      "id": "15479",
+      "name": "Borin Vini e Vigne",
+      "address": "Via dei Colli, 5",
+      "city": "Monselice",
+      "lat": "45.2699400000000",
+      "lng": "11.7519700000000",
+      "type": "672",
+      "phone": "0429 74384"
+   },
+   {
+      "id": "15705",
+      "name": "Del Rèbene",
+      "address": "Via Bertoldi, 25",
+      "city": "Zovencedo",
+      "lat": "45.4407900000000",
+      "lng": "11.4821440000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15475",
+      "name": "Frantoio di Valnogaredo",
+      "address": "Via Mantovane, 8 A",
+      "city": "Cinto Euganeo",
+      "lat": "45.2991600000000",
+      "lng": "11.6621700000000",
+      "type": "672",
+      "phone": "0429 647224"
+   },
+   {
+      "id": "15655",
+      "name": "Lucia Repele",
+      "address": "Via Repele, 3",
+      "city": "Nogarole Vicentino",
+      "lat": "45.5564747000000",
+      "lng": "11.2893015000000",
+      "type": "672",
+      "phone": "0444 1770264"
+   },
+   {
+      "id": "15743",
+      "name": "Laghel7",
+      "address": "Via San Bernardino,  5",
+      "city": "Arco",
+      "lat": "45.9336760000000",
+      "lng": "10.8880900000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15668",
+      "name": "Tenuta Maso Bòtes",
+      "address": "Località Olif de Botes, 1",
+      "city": "Arco",
+      "lat": "45.9246690000000",
+      "lng": "10.8591270000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15550",
+      "name": "Agraria Riva del Garda",
+      "address": "Via San Nazzaro, 4",
+      "city": "Riva del Garda",
+      "lat": "45.9013138000000",
+      "lng": "10.8582831000000",
+      "type": "672",
+      "phone": "0464 552133"
+   },
+   {
+      "id": "15453",
+      "name": "Madonna delle Vittorie",
+      "address": "Via Linfano, 81",
+      "city": "Arco",
+      "lat": "45.8803819000000",
+      "lng": "10.8748142000000",
+      "type": "672",
+      "phone": "0464  505542 - 505432"
+   },
+   {
+      "id": "15669",
+      "name": "Olio Cru",
+      "address": "Via Maso Belli, 1 B",
+      "city": "Riva del Garda",
+      "lat": "45.8868480000000",
+      "lng": "10.8557410000000",
+      "type": "672",
+      "phone": "0464 715344"
+   },
+   {
+      "id": "15706",
+      "name": "Tenuta Pojana",
+      "address": "Località Maronaro, 1",
+      "city": "Cazzano di Tramigna",
+      "lat": "45.4906390000000",
+      "lng": "11.2189680000000",
+      "type": "672",
+      "phone": "045 7820675"
+   },
+   {
+      "id": "15477",
+      "name": "Trabucchi d'Illasi",
+      "address": "Località Monte Tenda, 5",
+      "city": "Illasi",
+      "lat": "45.4615850000000",
+      "lng": "11.1977610000000",
+      "type": "672",
+      "phone": "045 7833233"
+   },
+   {
+      "id": "15478",
+      "name": "San Cassiano",
+      "address": "Via San Cassiano, 25",
+      "city": "Mezzane di Sotto",
+      "lat": "45.4826400000000",
+      "lng": "11.1458900000000",
+      "type": "672",
+      "phone": "045 8880665"
+   },
+   {
+      "id": "15476",
+      "name": "Frantoio Bonamini",
+      "address": "Via Santa Giustina, 10",
+      "city": "Illasi",
+      "lat": "45.4558580000000",
+      "lng": "11.1715640000000",
+      "type": "672",
+      "phone": "045 6520558"
+   },
+   {
+      "id": "15455",
+      "name": "Agostino Vicentini",
+      "address": "Via Cesare Battisti, 62",
+      "city": "Colognola ai Colli",
+      "lat": "45.4430700000000",
+      "lng": "11.1787700000000",
+      "type": "672",
+      "phone": "045 7650539"
+   },
+   {
+      "id": "15740",
+      "name": "La Contarina",
+      "address": "Via Montecurto, 7",
+      "city": "Illasi",
+      "lat": "45.4586110000000",
+      "lng": "11.1484760000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15481",
+      "name": "Giovanni Salvagno",
+      "address": "Contrada Gazzego, 1",
+      "city": "Verona",
+      "lat": "45.4827500000000",
+      "lng": "11.0311400000000",
+      "type": "672",
+      "phone": "045 526040"
+   },
+   {
+      "id": "15732",
+      "name": "Monica Vaccarella",
+      "address": "Strada per Montecchio, 6/D",
+      "city": "Verona",
+      "lat": "45.4935000000000",
+      "lng": "10.9927900000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15650",
+      "name": "Latteria Turnaria di Tignale",
+      "address": "Via Manzoni, 1",
+      "city": "Tignale",
+      "lat": "45.7405295000000",
+      "lng": "10.7201093000000",
+      "type": "672",
+      "phone": "0365 73471"
+   },
+   {
+      "id": "15480",
+      "name": "Zymè",
+      "address": "Via Ca del Pipa, 1",
+      "city": "San Pietro in Cariano",
+      "lat": "45.5169600000000",
+      "lng": "10.9015700000000",
+      "type": "672",
+      "phone": "045 7701108"
+   },
+   {
+      "id": "15474",
+      "name": "Fratelli Turri",
+      "address": "Strada Villa, 9",
+      "city": "Cavaion Veronese",
+      "lat": "45.5298385000000",
+      "lng": "10.7534833000000",
+      "type": "672",
+      "phone": "045 7235006"
+   },
+   {
+      "id": "15454",
+      "name": "Guerrieri Rizzardi",
+      "address": "Strada Campazzi, 2",
+      "city": "Bardolino",
+      "lat": "45.5431100000000",
+      "lng": "10.7359200000000",
+      "type": "672",
+      "phone": "045 7210028"
+   },
+   {
+      "id": "15600",
+      "name": "Marchese Guidalberto di Canossa",
+      "address": "Località Brè - Albisano",
+      "city": "Torri del Benaco",
+      "lat": "45.5860530000000",
+      "lng": "10.6831430000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15704",
+      "name": "Casa del Tempo Ritrovato",
+      "address": "Via Firenze, 10",
+      "city": "Toscolano Maderno",
+      "lat": "45.6481800000000",
+      "lng": "10.6168800000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15582",
+      "name": "Paolo Vezzola",
+      "address": "Via Benaco, 20",
+      "city": "San Felice del Benaco",
+      "lat": "45.5961643000000",
+      "lng": "10.5526439000000",
+      "type": "672",
+      "phone": "0365 555017"
+   },
+   {
+      "id": "15612",
+      "name": "Cooperativa Agricola San Felice del Benaco",
+      "address": "Via delle Gere, 2",
+      "city": "San Felice del Benaco",
+      "lat": "45.5905279000000",
+      "lng": "10.5558506000000",
+      "type": "672",
+      "phone": "0365 62341"
+   },
+   {
+      "id": "15452",
+      "name": "Pietro e Rita Rocca",
+      "address": "Via Santa Caterina, 3",
+      "city": "Salò",
+      "lat": "45.5901340000000",
+      "lng": "10.5225400000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15735",
+      "name": "La Meridiana",
+      "address": "Via Provinciale, 9",
+      "city": "Puegnago sul Garda",
+      "lat": "45.5707449000000",
+      "lng": "10.5096137000000",
+      "type": "672",
+      "phone": "0365 651265"
+   },
+   {
+      "id": "15484",
+      "name": "Comincioli",
+      "address": "Via Roma, 10",
+      "city": "Puegnago sul Garda",
+      "lat": "45.5674444000000",
+      "lng": "10.5098301000000",
+      "type": "672",
+      "phone": "0365 651141"
+   },
+   {
+      "id": "15637",
+      "name": "Alba",
+      "address": "Via Brighenti, 1",
+      "city": "Lovere",
+      "lat": "45.8174996000000",
+      "lng": "10.0728573000000",
+      "type": "672",
+      "phone": "035 962144"
+   },
+   {
+      "id": "15737",
+      "name": "Itaca",
+      "address": "Via Doninzetti, 37",
+      "city": "Concesio",
+      "lat": "45.5993862000000",
+      "lng": "10.2301086000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15489",
+      "name": "San Patrignano",
+      "address": "Via San Patrignano, 53",
+      "city": "Coriano",
+      "lat": "43.9820400000000",
+      "lng": "12.5559400000000",
+      "type": "672",
+      "phone": "0541 362306"
+   },
+   {
+      "id": "15597",
+      "name": "Agrintesa",
+      "address": "Via Galileo Galilei, 15",
+      "city": "Faenza",
+      "lat": "44.2968397000000",
+      "lng": "11.8597984000000",
+      "type": "672",
+      "phone": "0546 619318"
+   },
+   {
+      "id": "15490",
+      "name": "Oleificio Sapigni",
+      "address": "Via Statale Marecchia, 39",
+      "city": "Verucchio",
+      "lat": "43.9966991000000",
+      "lng": "12.4236817000000",
+      "type": "672",
+      "phone": "0541 679094"
+   },
+   {
+      "id": "15548",
+      "name": "Podere La Torre",
+      "address": "Via Garibaldi, 660",
+      "city": "Roncofreddo",
+      "lat": "44.0384351000000",
+      "lng": "12.3093721000000",
+      "type": "672",
+      "phone": "0541 949143"
+   },
+   {
+      "id": "15578",
+      "name": "Primo Fraternali Grilli",
+      "address": "Via Villa Parigi, 37",
+      "city": "Montegridolfo",
+      "lat": "43.8601720000000",
+      "lng": "12.7112470000000",
+      "type": "672",
+      "phone": "0541 855525"
+   },
+   {
+      "id": "15491",
+      "name": "Del Carmine",
+      "address": "Via Del Carmine, 51",
+      "city": "Ancona",
+      "lat": "43.5933786000000",
+      "lng": "13.4529228000000",
+      "type": "672",
+      "phone": "071 889403"
+   },
+   {
+      "id": "15579",
+      "name": "Conventino Monteciccardo",
+      "address": "Via Giulio Turcato, 4",
+      "city": "Monteciccardo",
+      "lat": "43.8152220000000",
+      "lng": "12.8012930000000",
+      "type": "672",
+      "phone": "0721 910574"
+   },
+   {
+      "id": "15629",
+      "name": "Il Borgo del Melograno",
+      "address": "Via Val di Ranco,  814",
+      "city": "Montefiore Conca",
+      "lat": "43.8908762000000",
+      "lng": "12.6116261000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15738",
+      "name": "Tenuta Pennita",
+      "address": "Via Pianello, 34",
+      "city": "Castrocaro Terme e Terra del Sole",
+      "lat": "44.1921050000000",
+      "lng": "11.9506050000000",
+      "type": "672",
+      "phone": "0543 767451"
+   },
+   {
+      "id": "15607",
+      "name": "Fattoria Le Terrazze",
+      "address": "Via del Musone, 4",
+      "city": "Numana",
+      "lat": "43.4828773000000",
+      "lng": "13.6108877000000",
+      "type": "672",
+      "phone": "071 7390352"
+   },
+   {
+      "id": "15488",
+      "name": "Terra di Brisighella",
+      "address": "Via Strada, 2",
+      "city": "Brisighella",
+      "lat": "44.2177855000000",
+      "lng": "11.7588762000000",
+      "type": "672",
+      "phone": "0546 81103"
+   },
+   {
+      "id": "15728",
+      "name": "Il Palasso",
+      "address": "Via Filippo Lussana, 5",
+      "city": "Cenate Sopra",
+      "lat": "45.7172639000000",
+      "lng": "9.8142183000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15702",
+      "name": "L´Uliveto",
+      "address": "Via Offagna, 5",
+      "city": "Osimo",
+      "lat": "43.5156405000000",
+      "lng": "13.4384733000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15494",
+      "name": "Fratelli Bucci",
+      "address": "Via Cona, 30",
+      "city": "Ostra Vetere",
+      "lat": "43.6040274000000",
+      "lng": "13.1054480000000",
+      "type": "672",
+      "phone": "071 964179"
+   },
+   {
+      "id": "15581",
+      "name": "Il Castelletto",
+      "address": "Via Collina Alta, 58",
+      "city": "Scanzorosciate",
+      "lat": "45.7127750000000",
+      "lng": "9.7880429000000",
+      "type": "672",
+      "phone": "035 4599275"
+   },
+   {
+      "id": "15557",
+      "name": "Bartolucci",
+      "address": "Via Montegiacomo, 95",
+      "city": "Monsano",
+      "lat": "43.5557311000000",
+      "lng": "13.2451193000000",
+      "type": "672",
+      "phone": "0731 211114"
+   },
+   {
+      "id": "15753",
+      "name": "Gioacchino Garofoli",
+      "address": "Via Marx, 123",
+      "city": "Castelfidardo",
+      "lat": "43.4501510000000",
+      "lng": "13.5912390000000",
+      "type": "672",
+      "phone": "071 7820162"
+   },
+   {
+      "id": "15741",
+      "name": "I Tre Filari",
+      "address": "Contrada Bagnolo, 38 A",
+      "city": "Recanati",
+      "lat": "43.4085488000000",
+      "lng": "13.5386242000000",
+      "type": "672",
+      "phone": "071 982499"
+   },
+   {
+      "id": "15493",
+      "name": "Montecappone",
+      "address": "Via Colle Olivo, 2",
+      "city": "Jesi",
+      "lat": "43.5078262000000",
+      "lng": "13.2041823000000",
+      "type": "672",
+      "phone": "0731 205761"
+   },
+   {
+      "id": "15580",
+      "name": "Poppo",
+      "address": "Via Lecco, 12",
+      "city": "Bellano",
+      "lat": "46.0359238000000",
+      "lng": "9.2993381000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15451",
+      "name": "Stefania Mattarelli",
+      "address": "Via per Esino, 115",
+      "city": "Perledo",
+      "lat": "46.0144900000000",
+      "lng": "9.2956060000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15730",
+      "name": "Massimiliano Gaiatto",
+      "address": "Via Stazione Fiumelatte",
+      "city": "Varenna",
+      "lat": "46.0152404000000",
+      "lng": "9.2861147000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15729",
+      "name": "Figini",
+      "address": "Via Guglielmo Marconi, 17G",
+      "city": "Olginate",
+      "lat": "45.7943861000000",
+      "lng": "9.4042792000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15663",
+      "name": "Barbara Pacioni",
+      "address": "Contrada Guazzetti   snc",
+      "city": "Montegranaro",
+      "lat": "43.2384470000000",
+      "lng": "13.6354233000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15495",
+      "name": "Agrobiologica Foglini Amurri",
+      "address": "Contrada San Savino, 51",
+      "city": "Petritoli",
+      "lat": "43.0655697000000",
+      "lng": "13.6567939000000",
+      "type": "672",
+      "phone": "0734 658429"
+   },
+   {
+      "id": "15556",
+      "name": "Fiorano",
+      "address": "Contrada Fiorano, 19",
+      "city": "Cossignano",
+      "lat": "42.9865415000000",
+      "lng": "13.7055892000000",
+      "type": "672",
+      "phone": "0735 98247"
+   },
+   {
+      "id": "15749",
+      "name": "Olive Gregori",
+      "address": "Contrada Lugugnano, 26",
+      "city": "Montalto delle Marche",
+      "lat": "42.9837460000000",
+      "lng": "13.6388420000000",
+      "type": "672",
+      "phone": "351 8190640"
+   },
+   {
+      "id": "15573",
+      "name": "Lavacchio",
+      "address": "Via di Montefiesole, 55",
+      "city": "Pontassieve",
+      "lat": "43.8099191000000",
+      "lng": "11.4459618000000",
+      "type": "672",
+      "phone": "055 8317472"
+   },
+   {
+      "id": "15461",
+      "name": "Fattoria Altomena",
+      "address": "Campicuccioli",
+      "city": "Pelago",
+      "lat": "43.7726973000000",
+      "lng": "11.5032835000000",
+      "type": "672",
+      "phone": "055 8301001"
+   },
+   {
+      "id": "15633",
+      "name": "Aleandri",
+      "address": "Via Fratelli Cervi, 34",
+      "city": "Offida",
+      "lat": "42.9432916000000",
+      "lng": "13.7246903000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15569",
+      "name": "Marchesi Gondi",
+      "address": "Via dello Stracchino, 32",
+      "city": "Pontassieve",
+      "lat": "43.8049290000000",
+      "lng": "11.4202632000000",
+      "type": "672",
+      "phone": "055 8317830"
+   },
+   {
+      "id": "15492",
+      "name": "Cantine di Castignano",
+      "address": "Via San Venanzo, 31",
+      "city": "Castignano",
+      "lat": "42.9564127000000",
+      "lng": "13.6471063000000",
+      "type": "672",
+      "phone": "0736 822216"
+   },
+   {
+      "id": "15661",
+      "name": "Elena Semproni",
+      "address": "Contrada San Venanzo, 18",
+      "city": "Castignano",
+      "lat": "42.9457883000000",
+      "lng": "13.6246954000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15570",
+      "name": "I Veroni",
+      "address": "Via Tifariti, 5",
+      "city": "Pontassieve",
+      "lat": "43.7809721000000",
+      "lng": "11.4174149000000",
+      "type": "672",
+      "phone": "055 8368886"
+   },
+   {
+      "id": "15658",
+      "name": "La Gramigna",
+      "address": "Via di Gricigliano, 43",
+      "city": "Pontassieve",
+      "lat": "43.7945850000000",
+      "lng": "11.3831930000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15606",
+      "name": "Saladini Pilastri",
+      "address": "Via Saladini, 5",
+      "city": "Spinetoli",
+      "lat": "42.8816383000000",
+      "lng": "13.7836709000000",
+      "type": "672",
+      "phone": "0736 899534"
+   },
+   {
+      "id": "15621",
+      "name": "Buonamici",
+      "address": "Via di Montebeni, 11",
+      "city": "Fiesole",
+      "lat": "43.7960900000000",
+      "lng": "11.3276000000000",
+      "type": "672",
+      "phone": "055 654991"
+   },
+   {
+      "id": "15673",
+      "name": "Le Pietraie",
+      "address": "Via Casanova, 15",
+      "city": "Città di Castello",
+      "lat": "43.3709470000000",
+      "lng": "12.2260800000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15496",
+      "name": "Rosina Silvestri",
+      "address": "Via Schiavoni, 8",
+      "city": "Spinetoli",
+      "lat": "42.8735263000000",
+      "lng": "13.7853892000000",
+      "type": "672",
+      "phone": "0736 890027"
+   },
+   {
+      "id": "15457",
+      "name": "Fattoria di Poggiopiano",
+      "address": "Via dei Bassi, 13",
+      "city": "Fiesole",
+      "lat": "43.7771481000000",
+      "lng": "11.3498319000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15769",
+      "name": "I Sergenti",
+      "address": "Via Martin Luther King, 11",
+      "city": "Reggello",
+      "lat": "43.6768290000000",
+      "lng": "11.5283690000000",
+      "type": "672",
+      "phone": "055 869145"
+   },
+   {
+      "id": "15699",
+      "name": "Tenuta Pietrapiana",
+      "address": "Via Brunetto Latini, 57",
+      "city": "Reggello",
+      "lat": "43.6763460000000",
+      "lng": "11.5275514000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15721",
+      "name": "Agrispes",
+      "address": "Via Perfetti Ricasoli, 34",
+      "city": "Firenze",
+      "lat": "43.8302130000000",
+      "lng": "11.2343690000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15630",
+      "name": "Fattoria Ramerino",
+      "address": "Via Roma, 404",
+      "city": "Bagno a Ripoli",
+      "lat": "43.7435228000000",
+      "lng": "11.3415692000000",
+      "type": "672",
+      "phone": "055 631520"
+   },
+   {
+      "id": "15571",
+      "name": "Sàgona",
+      "address": "Via San Clemente in Valle",
+      "city": "Loro Ciuffenna",
+      "lat": "43.5932496000000",
+      "lng": "11.6315087000000",
+      "type": "672",
+      "phone": "393 8110260"
+   },
+   {
+      "id": "15697",
+      "name": "Villa Dauphiné",
+      "address": "Via Roma, 563",
+      "city": "Bagno a Ripoli",
+      "lat": "43.7308986000000",
+      "lng": "11.3529235000000",
+      "type": "672",
+      "phone": "055 621769"
+   },
+   {
+      "id": "15727",
+      "name": "Monna Giovannella",
+      "address": "Via Petriolo, 7",
+      "city": "Bagno a Ripoli",
+      "lat": "43.7321311000000",
+      "lng": "11.3258877000000",
+      "type": "672",
+      "phone": "0552 478441"
+   },
+   {
+      "id": "15613",
+      "name": "Reto di Montisoni",
+      "address": "Via Montisoni, 23",
+      "city": "Bagno a Ripoli",
+      "lat": "43.7226910000000",
+      "lng": "11.3433140000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15458",
+      "name": "Marchesi Frescobaldi",
+      "address": "Via Santo Spirito, 11",
+      "city": "Firenze",
+      "lat": "43.7684313000000",
+      "lng": "11.2484104000000",
+      "type": "672",
+      "phone": "055 27141"
+   },
+   {
+      "id": "15685",
+      "name": "Oleificio Angelini",
+      "address": "Contrada Faiano, 116 A",
+      "city": "Ascoli Piceno",
+      "lat": "42.8616083000000",
+      "lng": "13.5650541000000",
+      "type": "672",
+      "phone": "0736 251218"
+   },
+   {
+      "id": "15517",
+      "name": "Malenchini",
+      "address": "Via Lilliano e Meoli, 82",
+      "city": "Bagno a Ripoli",
+      "lat": "43.7172650000000",
+      "lng": "11.3132140000000",
+      "type": "672",
+      "phone": "055 642602"
+   },
+   {
+      "id": "15726",
+      "name": "Buffalmacco",
+      "address": "Via Roma, 605",
+      "city": "Bagno a Ripoli",
+      "lat": "43.7653784000000",
+      "lng": "11.2172582000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15772",
+      "name": "Fattoria Casagrande",
+      "address": "Giovanbattista del Puglia",
+      "city": "Figline e Incisa Valdarno",
+      "lat": "43.6162695000000",
+      "lng": "11.4729867000000",
+      "type": "672",
+      "phone": "055 8349429"
+   },
+   {
+      "id": "15700",
+      "name": "Frantoio Pruneti",
+      "address": "Via dell'Oliveto, 24",
+      "city": "Greve in Chianti",
+      "lat": "43.6677650000000",
+      "lng": "11.3682700000000",
+      "type": "672",
+      "phone": "055 8555091"
+   },
+   {
+      "id": "15459",
+      "name": "La Querce",
+      "address": "Via Imprunetana per Tavarnuzze, 41",
+      "city": "Impruneta",
+      "lat": "43.6915554000000",
+      "lng": "11.2372210000000",
+      "type": "672",
+      "phone": "055 2011380"
+   },
+   {
+      "id": "15519",
+      "name": "Giacomo Grassi",
+      "address": "Via Dudda, 33",
+      "city": "Greve in Chianti",
+      "lat": "43.6029660000000",
+      "lng": "11.3816060000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15590",
+      "name": "La Ranocchiaia",
+      "address": "Via Faltignano, 39/41",
+      "city": "San Casciano in Val di Pesa",
+      "lat": "43.6984758000000",
+      "lng": "11.1846809000000",
+      "type": "672",
+      "phone": "055 828855"
+   },
+   {
+      "id": "15620",
+      "name": "Torre Bianca",
+      "address": "Via Faltignano, 75",
+      "city": "San Casciano in Val di Pesa",
+      "lat": "43.6928286000000",
+      "lng": "11.1808389000000",
+      "type": "672",
+      "phone": "055 8242560"
+   },
+   {
+      "id": "15460",
+      "name": "Balduccio",
+      "address": "Via Greppiano, 29",
+      "city": "Lamporecchio",
+      "lat": "43.8197770000000",
+      "lng": "10.9163120000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15522",
+      "name": "Tenuta del Palagio",
+      "address": "Via Campoli, 104",
+      "city": "San Casciano in Val di Pesa",
+      "lat": "43.6262100000000",
+      "lng": "11.2418600000000",
+      "type": "672",
+      "phone": "055 821630"
+   },
+   {
+      "id": "15564",
+      "name": "Villa le Corti",
+      "address": "Via San Piero di Sotto, 1",
+      "city": "San Casciano in Val di Pesa",
+      "lat": "43.6498854000000",
+      "lng": "11.1951410000000",
+      "type": "672",
+      "phone": "055 8293026"
+   },
+   {
+      "id": "15515",
+      "name": "Boggioli",
+      "address": "Via Boggioli, 10",
+      "city": "Cavriglia",
+      "lat": "43.5030120000000",
+      "lng": "11.4782780000000",
+      "type": "672",
+      "phone": "055 9166222"
+   },
+   {
+      "id": "15532",
+      "name": "Luigi Tega",
+      "address": "Via dei Frantoi, 53",
+      "city": "Foligno",
+      "lat": "42.9827988000000",
+      "lng": "12.7411428000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15530",
+      "name": "Giovanni Batta",
+      "address": "Via San Girolamo, 127",
+      "city": "Perugia",
+      "lat": "43.1037071000000",
+      "lng": "12.3993189000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15622",
+      "name": "I Greppi di Silli",
+      "address": "Via Vallacchio, 17 B",
+      "city": "San Casciano in Val di Pesa",
+      "lat": "43.6206750000000",
+      "lng": "11.2298990000000",
+      "type": "672",
+      "phone": "055 8217956"
+   },
+   {
+      "id": "15724",
+      "name": "Bellandi",
+      "address": "Via Giacomo Matteotti , 48",
+      "city": "Uzzano",
+      "lat": "43.8863638000000",
+      "lng": "10.7133360000000",
+      "type": "672",
+      "phone": "338 4952716"
+   },
+   {
+      "id": "15640",
+      "name": "Marzalla",
+      "address": "Via Collecchio, 1",
+      "city": "Pescia",
+      "lat": "43.8936577000000",
+      "lng": "10.6810033000000",
+      "type": "672",
+      "phone": "0572 490751"
+   },
+   {
+      "id": "15574",
+      "name": "Decimi",
+      "address": "Via Prigionieri, 19",
+      "city": "Bettona",
+      "lat": "43.0177611000000",
+      "lng": "12.5168237000000",
+      "type": "672",
+      "phone": "075 987304"
+   },
+   {
+      "id": "15518",
+      "name": "Fontodi",
+      "address": "Via San Leonino, 89",
+      "city": "Greve in Chianti",
+      "lat": "43.5306500000000",
+      "lng": "11.3058290000000",
+      "type": "672",
+      "phone": "055 852005"
+   },
+   {
+      "id": "15674",
+      "name": "Giulio Mannelli",
+      "address": "Via Col di Lodola, 20",
+      "city": "Bettona",
+      "lat": "43.0099714000000",
+      "lng": "12.4934604000000",
+      "type": "672",
+      "phone": "075 9869023"
+   },
+   {
+      "id": "15528",
+      "name": "Viola",
+      "address": "Via Borgo San Giovanni, 11 B",
+      "city": "Foligno",
+      "lat": "42.9290188000000",
+      "lng": "12.7254146000000",
+      "type": "672",
+      "phone": "0742 67515"
+   },
+   {
+      "id": "15521",
+      "name": "Fattorie Parri",
+      "address": "Via Vallone, 4",
+      "city": "Montespertoli",
+      "lat": "43.6424090000000",
+      "lng": "11.0370139000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15589",
+      "name": "Colle di Bordocheo",
+      "address": "Via Piaggiori Basso, 123",
+      "city": "Capannori",
+      "lat": "43.8919936000000",
+      "lng": "10.6030512000000",
+      "type": "672",
+      "phone": "0583 929821"
+   },
+   {
+      "id": "15725",
+      "name": "Le Torri",
+      "address": "Via San Lorenzo a Vigliano, 31",
+      "city": "Barberino Val d´Elsa",
+      "lat": "43.5534891000000",
+      "lng": "11.1375766000000",
+      "type": "672",
+      "phone": "055 8076161"
+   },
+   {
+      "id": "15563",
+      "name": "Forcella",
+      "address": "Via Riviera, 285",
+      "city": "Pescara",
+      "lat": "42.4875116000000",
+      "lng": "14.1904568000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15770",
+      "name": "Fèlsina",
+      "address": "Via del Chianti, 101",
+      "city": "Castelnuovo Berardenga",
+      "lat": "43.3494990000000",
+      "lng": "11.5012470000000",
+      "type": "672",
+      "phone": "0577 335117"
+   },
+   {
+      "id": "15529",
+      "name": "Antonelli San Marco",
+      "address": "Località San Marco, 60",
+      "city": "Montefalco",
+      "lat": "42.8927883000000",
+      "lng": "12.5997925000000",
+      "type": "672",
+      "phone": "0742 379158"
+   },
+   {
+      "id": "15679",
+      "name": "Tenuta Lenzini",
+      "address": "Via della Chiesa, 44",
+      "city": "Capannori",
+      "lat": "43.8364358000000",
+      "lng": "10.5676836000000",
+      "type": "672",
+      "phone": "0583 974037"
+   },
+   {
+      "id": "15527",
+      "name": "Marfuga",
+      "address": "Viale Firenze",
+      "city": "Campello sul Clitunno",
+      "lat": "42.8250200000000",
+      "lng": "12.7631760000000",
+      "type": "672",
+      "phone": "0743 521338"
+   },
+   {
+      "id": "15514",
+      "name": "Rocca delle Macìe",
+      "address": "Località Le Macìe, 45",
+      "city": "Castellina in Chianti",
+      "lat": "43.4362882000000",
+      "lng": "11.2701166000000",
+      "type": "672",
+      "phone": "0577 7321"
+   },
+   {
+      "id": "15531",
+      "name": "Villa Della Genga",
+      "address": "Via Poreta, 73",
+      "city": "Spoleto",
+      "lat": "42.8085060000000",
+      "lng": "12.7838400000000",
+      "type": "672",
+      "phone": "0743 274137"
+   },
+   {
+      "id": "15771",
+      "name": "Castello Monte Vibiano Vecchio",
+      "address": "Bocca di Rigo",
+      "city": "Marsciano",
+      "lat": "42.9661246000000",
+      "lng": "12.2739449000000",
+      "type": "672",
+      "phone": "075 8783001"
+   },
+   {
+      "id": "15677",
+      "name": "Alle Camelie",
+      "address": "Via della Pieve, 186",
+      "city": "Capannori",
+      "lat": "43.7832499000000",
+      "lng": "10.5647170000000",
+      "type": "672",
+      "phone": "0583 977001"
+   },
+   {
+      "id": "15638",
+      "name": "Fontanaro",
+      "address": "Via Vocabolo Montanaro, 64",
+      "city": "Paciano",
+      "lat": "43.0253810000000",
+      "lng": "12.0638490000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15648",
+      "name": "Frantoio Mercurius",
+      "address": "Via Porta Fornace, 4",
+      "city": "Penne",
+      "lat": "42.4569116000000",
+      "lng": "13.9281293000000",
+      "type": "672",
+      "phone": "085 8279937"
+   },
+   {
+      "id": "15690",
+      "name": "Delia Orsini",
+      "address": "Contrada Fontemaggio, 7",
+      "city": "Loreto Aprutino",
+      "lat": "42.4391293000000",
+      "lng": "13.9935302000000",
+      "type": "672",
+      "phone": "085 8291239"
+   },
+   {
+      "id": "15545",
+      "name": "Società Cooperativa Agricola Loretana",
+      "address": "Contrada Colle Freddo, 27",
+      "city": "Loreto Aprutino",
+      "lat": "42.4303040000000",
+      "lng": "13.9995440000000",
+      "type": "672",
+      "phone": "085 8291293"
+   },
+   {
+      "id": "15609",
+      "name": "Il Monticello",
+      "address": "Via Groppolo, 7",
+      "city": "Sarzana",
+      "lat": "44.1343036000000",
+      "lng": "9.9693418000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15546",
+      "name": "Marina Palusci",
+      "address": "Contrada Fontegallo, 2",
+      "city": "Pianella",
+      "lat": "42.3977902000000",
+      "lng": "14.0534959000000",
+      "type": "672",
+      "phone": "085 971509"
+   },
+   {
+      "id": "15745",
+      "name": "Val di Lama",
+      "address": "Via Val di Lama, 1",
+      "city": "Pontedera",
+      "lat": "43.6288800000000",
+      "lng": "10.6982500000000",
+      "type": "672",
+      "phone": "0587 420680"
+   },
+   {
+      "id": "15664",
+      "name": "Ernesto Tiberio",
+      "address": "Via Ciccospreca, 57",
+      "city": "Tollo",
+      "lat": "42.3374949000000",
+      "lng": "14.3169370000000",
+      "type": "672",
+      "phone": "0871 969052"
+   },
+   {
+      "id": "15639",
+      "name": "Villa Saletta",
+      "address": "Via Enrico Fermi, 14",
+      "city": "Palaia",
+      "lat": "43.5956192000000",
+      "lng": "10.7257912000000",
+      "type": "672",
+      "phone": "0587 628121"
+   },
+   {
+      "id": "15593",
+      "name": "Santabarbara",
+      "address": "Via Trieste del Grosso, 64",
+      "city": "Chieti",
+      "lat": "42.3444980000000",
+      "lng": "14.1968784000000",
+      "type": "672",
+      "phone": "0871 321835"
+   },
+   {
+      "id": "15627",
+      "name": "Frantoio Giocondo",
+      "address": "Via San Rocco Vecchio, 9",
+      "city": "San Vito Chietino",
+      "lat": "42.2914642000000",
+      "lng": "14.4449777000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15572",
+      "name": "Tenuta di Ghizzano",
+      "address": "Via della Chiesa, 4",
+      "city": "Peccioli",
+      "lat": "43.5393495000000",
+      "lng": "10.7892176000000",
+      "type": "672",
+      "phone": "0587 630096"
+   },
+   {
+      "id": "15698",
+      "name": "Buoni o Del Buono Maria Pia",
+      "address": "Traversa Strada Statale 321 Est",
+      "city": "Cetona",
+      "lat": "42.9904661000000",
+      "lng": "11.9251310000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15665",
+      "name": "Rifugiomare",
+      "address": "Contrada Piane Favaro, 179",
+      "city": "Rocca San Giovanni",
+      "lat": "42.2729605000000",
+      "lng": "14.4940460000000",
+      "type": "672",
+      "phone": "0872 608112"
+   },
+   {
+      "id": "15598",
+      "name": "Ursini",
+      "address": "Santa Maria la Nova, 12",
+      "city": "Fossacesia",
+      "lat": "42.2440575000000",
+      "lng": "14.4801860000000",
+      "type": "672",
+      "phone": "0872 579060"
+   },
+   {
+      "id": "15701",
+      "name": "I Moricci",
+      "address": "Via di Ripassaia, 10",
+      "city": "Peccioli",
+      "lat": "43.5060230000000",
+      "lng": "10.7450470000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15746",
+      "name": "Badia di Morrona",
+      "address": "Via del Chianti, 6",
+      "city": "Terricciola",
+      "lat": "43.5336549000000",
+      "lng": "10.6564006000000",
+      "type": "672",
+      "phone": "0587 658505"
+   },
+   {
+      "id": "15544",
+      "name": "Caniloro",
+      "address": "Contrada Sant'Onofrio, 134",
+      "city": "Lanciano",
+      "lat": "42.1759309000000",
+      "lng": "14.4037527000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15763",
+      "name": "Verna",
+      "address": "Via Cerchiara, 32",
+      "city": "Guardiagrele",
+      "lat": "42.1916410000000",
+      "lng": "14.2922560000000",
+      "type": "672",
+      "phone": "0871 893132"
+   },
+   {
+      "id": "15646",
+      "name": "Orseggi",
+      "address": "Via Caccini, 4",
+      "city": "Lavagna",
+      "lat": "44.3015534000000",
+      "lng": "9.3728585000000",
+      "type": "672",
+      "phone": "0185 392009"
+   },
+   {
+      "id": "15762",
+      "name": "Terzini",
+      "address": "Via Roma, 52",
+      "city": "Tocco da Casauria",
+      "lat": "42.2156870000000",
+      "lng": "13.9148245000000",
+      "type": "672",
+      "phone": "085 9158147"
+   },
+   {
+      "id": "15693",
+      "name": "Guardiani Farchione",
+      "address": "Via XX Settembre, 30",
+      "city": "Tocco da Casauria",
+      "lat": "42.2153918000000",
+      "lng": "13.9134765000000",
+      "type": "672",
+      "phone": "085 880509"
+   },
+   {
+      "id": "15666",
+      "name": "Giardini di Giulio",
+      "address": "Via Municipio, 20",
+      "city": "Tocco da Casauria",
+      "lat": "42.2124949000000",
+      "lng": "13.9113230000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15710",
+      "name": "Alessandro Ricci",
+      "address": "Via Cavour, 21",
+      "city": "Montecchio",
+      "lat": "42.6628230000000",
+      "lng": "12.2849450000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15591",
+      "name": "Sapori della Majella",
+      "address": "Contrada dei Fiorentini, 5/7",
+      "city": "Casoli",
+      "lat": "42.1382290000000",
+      "lng": "14.3019025000000",
+      "type": "672",
+      "phone": "0872 982836"
+   },
+   {
+      "id": "15547",
+      "name": "La Selvotta",
+      "address": "Contrada Buonanotte, 10",
+      "city": "Vasto",
+      "lat": "42.0724800000000",
+      "lng": "14.7395300000000",
+      "type": "672",
+      "phone": "0873 801658"
+   },
+   {
+      "id": "15543",
+      "name": "L'Olivicola Casolana",
+      "address": "Contrada Piano Laroma, 3",
+      "city": "Casoli",
+      "lat": "42.1388574000000",
+      "lng": "14.2614866000000",
+      "type": "672",
+      "phone": "0872 982248"
+   },
+   {
+      "id": "15676",
+      "name": "Nonno Adamo",
+      "address": "Località Querciola",
+      "city": "Seggiano",
+      "lat": "42.9323240000000",
+      "lng": "11.5711430000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15761",
+      "name": "Di Sciascio",
+      "address": "Colle Pizzuto, 5 E",
+      "city": "Vasto",
+      "lat": "42.0646016000000",
+      "lng": "14.7269379000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15765",
+      "name": "Frantoio Olearius",
+      "address": "Via del Turismo, 10",
+      "city": "Cupello",
+      "lat": "42.0661138000000",
+      "lng": "14.6839554000000",
+      "type": "672",
+      "phone": "0873 317674"
+   },
+   {
+      "id": "15513",
+      "name": "Frantoio Franci",
+      "address": "Via Achille Grandi, 5",
+      "city": "Castel del Piano",
+      "lat": "42.9444299000000",
+      "lng": "11.4731469000000",
+      "type": "672",
+      "phone": "0564 954000"
+   },
+   {
+      "id": "15619",
+      "name": "Poderi Borselli",
+      "address": "Località Quercione, 3A",
+      "city": "Castel del Piano",
+      "lat": "42.9050480000000",
+      "lng": "11.5192503000000",
+      "type": "672",
+      "phone": "0564 956546"
+   },
+   {
+      "id": "15670",
+      "name": "Giorgio Tamaro",
+      "address": "Via Po, 92",
+      "city": "Termoli",
+      "lat": "41.9879207000000",
+      "lng": "14.9722333000000",
+      "type": "672",
+      "phone": "0875 81703"
+   },
+   {
+      "id": "15614",
+      "name": "Oliveto di Geltrude Contessa",
+      "address": "Strada Cecanibbio, 38",
+      "city": "Amelia",
+      "lat": "42.5506732000000",
+      "lng": "12.4210801000000",
+      "type": "672",
+      "phone": "0744 981101"
+   },
+   {
+      "id": "15592",
+      "name": "Il vecchio moro",
+      "address": "Via Finocchieto, 16",
+      "city": "Roccascalegna",
+      "lat": "42.0768600000000",
+      "lng": "14.3196900000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15516",
+      "name": "Poggio al Gello",
+      "address": "Località Gello 66",
+      "city": "Paganico",
+      "lat": "42.9387680000000",
+      "lng": "11.2823150000000",
+      "type": "672",
+      "phone": "0564 906025"
+   },
+   {
+      "id": "15501",
+      "name": "Frantoio Battaglini",
+      "address": "Via Cassia, km 111, 700",
+      "city": "Bolsena",
+      "lat": "42.6343769000000",
+      "lng": "11.9958151000000",
+      "type": "672",
+      "phone": "0761 798847"
+   },
+   {
+      "id": "15568",
+      "name": "Leonardo Salustri",
+      "address": "Località La Cava",
+      "city": "Cinigiano",
+      "lat": "42.9028690000000",
+      "lng": "11.3317710000000",
+      "type": "672",
+      "phone": "0564 990529"
+   },
+   {
+      "id": "15567",
+      "name": "ColleMassari",
+      "address": "Località Poggi del Sasso",
+      "city": "Cinigiano",
+      "lat": "42.9043054000000",
+      "lng": "11.3246635000000",
+      "type": "672",
+      "phone": "0564 990496"
+   },
+   {
+      "id": "15722",
+      "name": "Tenuta Gardini",
+      "address": "Corso Matteotti, 128",
+      "city": "Cecina",
+      "lat": "43.3122330000000",
+      "lng": "10.5172730000000",
+      "type": "672",
+      "phone": "0586 671071"
+   },
+   {
+      "id": "15520",
+      "name": "Podere Riparbella",
+      "address": "Località Sopra Pian dei Mucini",
+      "city": "Massa Marittima",
+      "lat": "43.0726706000000",
+      "lng": "10.9164296000000",
+      "type": "672",
+      "phone": "0566 915557"
+   },
+   {
+      "id": "15694",
+      "name": "Frantoio Della Valle",
+      "address": "Via Pratola Peligna, 5",
+      "city": "Prezza",
+      "lat": "42.0631122000000",
+      "lng": "13.8424034000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15618",
+      "name": "Laghetto",
+      "address": "Località La Conca, 196 A",
+      "city": "Castagneto Carducci",
+      "lat": "43.2156200000000",
+      "lng": "10.6109452000000",
+      "type": "672",
+      "phone": "0565 775139"
+   },
+   {
+      "id": "15719",
+      "name": "Alessandra Boselli",
+      "address": "Via della Valle, 5",
+      "city": "Bassano in Teverina",
+      "lat": "42.4671098000000",
+      "lng": "12.3149754000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15659",
+      "name": "Fonte di Foiano",
+      "address": "Località Fonte di Foiano, 148",
+      "city": "Castagneto Carducci",
+      "lat": "43.1805900000000",
+      "lng": "10.6132500000000",
+      "type": "672",
+      "phone": "0565 766043"
+   },
+   {
+      "id": "15779",
+      "name": "Agamennone",
+      "address": "Riosecco Sant'Antonio, 62",
+      "city": "Poggio San Lorenzo",
+      "lat": "42.2521500000000",
+      "lng": "12.8437200000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15691",
+      "name": "Piano",
+      "address": "Via Stefano Canzio, 18",
+      "city": "Apricena",
+      "lat": "41.7678540000000",
+      "lng": "15.4632510000000",
+      "type": "672",
+      "phone": "0882 643676"
+   },
+   {
+      "id": "15523",
+      "name": "La Mola",
+      "address": "Località Mercato Vecchio",
+      "city": "Castelnuovo di Farfa",
+      "lat": "42.2315700000000",
+      "lng": "12.7430400000000",
+      "type": "672",
+      "phone": "0765 36385"
+   },
+   {
+      "id": "15723",
+      "name": "Pietrasca",
+      "address": "Località Pietrasca, 44 B",
+      "city": "Suvereto",
+      "lat": "43.0605282000000",
+      "lng": "10.6779977000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15660",
+      "name": "Fattoria La Maliosa",
+      "address": "Località Podere Monte Cavallo",
+      "city": "Manciano",
+      "lat": "42.6225860000000",
+      "lng": "11.5396800000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15505",
+      "name": "Augusto Spagnoli",
+      "address": "Via del Colle, 14",
+      "city": "Nerola",
+      "lat": "42.1609045000000",
+      "lng": "12.7869126000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15558",
+      "name": "Laura De Parri",
+      "address": "Località Cerrosughero",
+      "city": "Canino",
+      "lat": "42.4946634000000",
+      "lng": "11.7748307000000",
+      "type": "672",
+      "phone": "0761 438594"
+   },
+   {
+      "id": "15680",
+      "name": "Antonietta Pietropaolo",
+      "address": "Via Alcide De Gasperi, 60",
+      "city": "Casacalenda",
+      "lat": "41.7333969000000",
+      "lng": "14.8458320000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15507",
+      "name": "Norcia",
+      "address": "Strada Sasso San Pellegrino, 1",
+      "city": "Viterbo",
+      "lat": "42.3557572000000",
+      "lng": "12.0693943000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15645",
+      "name": "La Riserva Bio",
+      "address": "Strada della Peschiera, 2",
+      "city": "Tuscania",
+      "lat": "42.4185731000000",
+      "lng": "11.8703089000000",
+      "type": "672",
+      "phone": "0761 434211"
+   },
+   {
+      "id": "15748",
+      "name": "Eredi di Pieri Giovanni",
+      "address": "Strada Martana, 6",
+      "city": "Tuscania",
+      "lat": "42.4159819000000",
+      "lng": "11.8761376000000",
+      "type": "672",
+      "phone": "339 4648882"
+   },
+   {
+      "id": "15635",
+      "name": "Ione Zobbi",
+      "address": "Strada Comunale della Sala, 12",
+      "city": "Canino",
+      "lat": "42.4625379000000",
+      "lng": "11.7519148000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15776",
+      "name": "Andrea  Degiovanni",
+      "address": "Via Mazzacotto, 71",
+      "city": "Vetralla",
+      "lat": "42.3249617000000",
+      "lng": "12.0838139000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15506",
+      "name": "Silvi Sabina Sapori",
+      "address": "Strada Ponte delle Tavole, 42",
+      "city": "Palombara Sabina",
+      "lat": "42.0925140000000",
+      "lng": "12.7705130000000",
+      "type": "672",
+      "phone": "0774 635423"
+   },
+   {
+      "id": "15623",
+      "name": "Domenici",
+      "address": "Via dei Cerasari, 96",
+      "city": "Palombara Sabina",
+      "lat": "42.0632130000000",
+      "lng": "12.7648332000000",
+      "type": "672",
+      "phone": "0774 634908"
+   },
+   {
+      "id": "15500",
+      "name": "Colli Etruschi",
+      "address": "Via degli Ulivi, 2",
+      "city": "Blera",
+      "lat": "42.2717776000000",
+      "lng": "12.0287783000000",
+      "type": "672",
+      "phone": "0761 470469"
+   },
+   {
+      "id": "15456",
+      "name": "La Ferrata",
+      "address": "Via dei Sosii, 4",
+      "city": "Tivoli",
+      "lat": "41.9638701000000",
+      "lng": "12.8004729000000",
+      "type": "672",
+      "phone": "0774 312354"
+   },
+   {
+      "id": "15778",
+      "name": "Daniela Napoleone & C.",
+      "address": "Via Nazionale Tiburtina, 36 A",
+      "city": "Tivoli",
+      "lat": "41.9579374000000",
+      "lng": "12.8006302000000",
+      "type": "672",
+      "phone": "0774 335022"
+   },
+   {
+      "id": "15596",
+      "name": "Fratelli Ferrara",
+      "address": "Via Piave, 10",
+      "city": "Foggia",
+      "lat": "41.4633050000000",
+      "lng": "15.5541485000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15780",
+      "name": "I Ciacca",
+      "address": "Via Giustino Ferri, 7",
+      "city": "Picinisco",
+      "lat": "41.6468620000000",
+      "lng": "13.8671190000000",
+      "type": "672",
+      "phone": "0776 610608"
+   },
+   {
+      "id": "15562",
+      "name": "Principe Pignatelli",
+      "address": "Località Sant'Eusanio",
+      "city": "Monteroduni",
+      "lat": "41.5290257000000",
+      "lng": "14.1502359000000",
+      "type": "672",
+      "phone": "0865 491222"
+   },
+   {
+      "id": "15696",
+      "name": "Due Palme",
+      "address": "Località Schiopparello, 28",
+      "city": "Portoferraio",
+      "lat": "42.7887508000000",
+      "lng": "10.3433772000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15754",
+      "name": "Olivicola Cassetta",
+      "address": "Via Traversa I San Vito, 2",
+      "city": "Circello",
+      "lat": "41.3582170000000",
+      "lng": "14.7780380000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15649",
+      "name": "L'Oro delle Donne",
+      "address": "Viale Giuseppe Mazzini, 32",
+      "city": "Marino",
+      "lat": "41.7710280000000",
+      "lng": "12.6572580000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15509",
+      "name": "Galantino",
+      "address": "Via Vecchia Corato, 2",
+      "city": "Bisceglie",
+      "lat": "41.2312400000000",
+      "lng": "16.4904300000000",
+      "type": "672",
+      "phone": "080 3921320"
+   },
+   {
+      "id": "15634",
+      "name": "Nicola Monterisi",
+      "address": "Via Mozart, 140",
+      "city": "Andria",
+      "lat": "41.2242945000000",
+      "lng": "16.3133052000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15711",
+      "name": "Sabino Leone",
+      "address": "Strada Provinciale 143 km.5",
+      "city": "Canosa di Puglia",
+      "lat": "41.2167608000000",
+      "lng": "16.0629107000000",
+      "type": "672",
+      "phone": "0883 1957758"
+   },
+   {
+      "id": "15642",
+      "name": "Benedetta Cipriano",
+      "address": "Via Pigna-Pioppetelli, 23",
+      "city": "Piedimonte Matese",
+      "lat": "41.3546850000000",
+      "lng": "14.3578468000000",
+      "type": "672",
+      "phone": "0823 785644"
+   },
+   {
+      "id": "15502",
+      "name": "Marco Carpineti",
+      "address": "Strada Provinciale Velletri - Anzio, 3",
+      "city": "Cori",
+      "lat": "41.6486110000000",
+      "lng": "12.8980610000000",
+      "type": "672",
+      "phone": "06 9679860"
+   },
+   {
+      "id": "15714",
+      "name": "Giuseppe Ciccolella",
+      "address": "Strada vicinale Fondo Favale",
+      "city": "Molfetta",
+      "lat": "41.2041370000000",
+      "lng": "16.5920277000000",
+      "type": "672",
+      "phone": "080 9023998"
+   },
+   {
+      "id": "15750",
+      "name": "Margherita Leppa",
+      "address": "",
+      "city": "San Giorgio La Molara",
+      "lat": "41.2709636000000",
+      "lng": "14.9201891000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15667",
+      "name": "Silvia Maria Michela Crisci",
+      "address": "Via Circumvallazione, 26",
+      "city": "San Giorgio La Molara",
+      "lat": "41.2702472000000",
+      "lng": "14.9228271000000",
+      "type": "672",
+      "phone": "0824 983367"
+   },
+   {
+      "id": "15603",
+      "name": "Girardi",
+      "address": "Via Agricola, 21",
+      "city": "Sant´Angelo d´Alife",
+      "lat": "41.3510404000000",
+      "lng": "14.2668775000000",
+      "type": "672",
+      "phone": "0823 914140"
+   },
+   {
+      "id": "15752",
+      "name": "Francesco Saverio Spaccavento",
+      "address": "Via Sette Torri",
+      "city": "Giovinazzo",
+      "lat": "41.1866839000000",
+      "lng": "16.6735966000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15734",
+      "name": "Ortoplant",
+      "address": "Via Daconto, 41",
+      "city": "Giovinazzo",
+      "lat": "41.1842400000000",
+      "lng": "16.6683100000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15445",
+      "name": "Rinaldi",
+      "address": "",
+      "city": "Pontelandolfo",
+      "lat": "41.2854200000000",
+      "lng": "14.6609200000000",
+      "type": "672",
+      "phone": "0824 851072"
+   },
+   {
+      "id": "15760",
+      "name": "Corleto",
+      "address": "Contrada Bisciglieto",
+      "city": "Ascoli Satriano",
+      "lat": "41.2033413000000",
+      "lng": "15.5627449000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15744",
+      "name": "Augusto De Martini",
+      "address": "Via Fontana dell'Olmo, 16",
+      "city": "Fragneto l´Abate",
+      "lat": "41.2544855000000",
+      "lng": "14.7814110000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15446",
+      "name": "Zamparelli",
+      "address": "Corso Marzio Carafa, 58",
+      "city": "Cerreto Sannita",
+      "lat": "41.2816528000000",
+      "lng": "14.5556496000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15686",
+      "name": "D'Assisi",
+      "address": "",
+      "city": "Casalduni",
+      "lat": "41.2602897000000",
+      "lng": "14.6937674000000",
+      "type": "672",
+      "phone": "0824 856517"
+   },
+   {
+      "id": "15448",
+      "name": "Corte Normanna",
+      "address": "Via Sapenzie, 20",
+      "city": "Guardia Sanframondi",
+      "lat": "41.2563765000000",
+      "lng": "14.5993847000000",
+      "type": "672",
+      "phone": "0824 817004"
+   },
+   {
+      "id": "15447",
+      "name": "Aia dei Colombi",
+      "address": "",
+      "city": "Guardia Sanframondi",
+      "lat": "41.2563765000000",
+      "lng": "14.5993847000000",
+      "type": "672",
+      "phone": "0824 817139"
+   },
+   {
+      "id": "15560",
+      "name": "Muraglia",
+      "address": "Via San Candido, 83",
+      "city": "Andria",
+      "lat": "41.1382473000000",
+      "lng": "16.2286800000000",
+      "type": "672",
+      "phone": "0883 1950959"
+   },
+   {
+      "id": "15687",
+      "name": "De Cillis",
+      "address": "",
+      "city": "Montecalvo Irpino",
+      "lat": "41.1935910000000",
+      "lng": "15.0306675000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15644",
+      "name": "Frantoio Romano",
+      "address": "Via Candele, 13",
+      "city": "Ponte",
+      "lat": "41.2149456000000",
+      "lng": "14.6948605000000",
+      "type": "672",
+      "phone": "0824 874332"
+   },
+   {
+      "id": "15739",
+      "name": "Istituto d'Istruzione Superiore De Gruttola",
+      "address": "Villa Caracciolo",
+      "city": "Ariano Irpino",
+      "lat": "41.1596510000000",
+      "lng": "15.1073792000000",
+      "type": "672",
+      "phone": "0825 871579"
+   },
+   {
+      "id": "15585",
+      "name": "Paola Orsini",
+      "address": "Via Villa Meri, 10",
+      "city": "Priverno",
+      "lat": "41.4699220000000",
+      "lng": "13.1832534000000",
+      "type": "672",
+      "phone": "0773 913030"
+   },
+   {
+      "id": "15736",
+      "name": "Romolo",
+      "address": "Contrada Parzano",
+      "city": "Ariano Irpino",
+      "lat": "41.1520422000000",
+      "lng": "15.0856540000000",
+      "type": "672",
+      "phone": "0825 876447"
+   },
+   {
+      "id": "15641",
+      "name": "Francesco Saverio Biancheri",
+      "address": "Via San Martino, 80",
+      "city": "Priverno",
+      "lat": "41.4530209000000",
+      "lng": "13.1930053000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15555",
+      "name": "Masseria Frangiosa",
+      "address": "",
+      "city": "Torrecuso",
+      "lat": "41.1886740000000",
+      "lng": "14.6781247000000",
+      "type": "672",
+      "phone": "0824 874557"
+   },
+   {
+      "id": "15485",
+      "name": "San Comaio",
+      "address": "Via Provinciale, 60",
+      "city": "Zungoli",
+      "lat": "41.1279360000000",
+      "lng": "15.2022000000000",
+      "type": "672",
+      "phone": "0825 845013"
+   },
+   {
+      "id": "15604",
+      "name": "Giovanni Petrazzuoli",
+      "address": "Via Scoccilli, 29",
+      "city": "Ruviano",
+      "lat": "41.2149418000000",
+      "lng": "14.4031497000000",
+      "type": "672",
+      "phone": "0823 304977"
+   },
+   {
+      "id": "15766",
+      "name": "Uliveti Castel San Martino",
+      "address": "Via Procusi, 62",
+      "city": "Solopaca",
+      "lat": "41.1932700000000",
+      "lng": "14.5527670000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15742",
+      "name": "L'Uga Murella",
+      "address": "Via Baldoini, 7",
+      "city": "Borghetto d´Arroscia",
+      "lat": "44.0574187000000",
+      "lng": "7.9817661000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15524",
+      "name": "La Baita & Galleano",
+      "address": "Frazione Gazzo",
+      "city": "Borghetto d´Arroscia",
+      "lat": "44.0556635000000",
+      "lng": "7.9795123000000",
+      "type": "672",
+      "phone": "0183 31324"
+   },
+   {
+      "id": "15608",
+      "name": "Luigi Bianchi Carenzo",
+      "address": "Via Isabella Lantero, 19",
+      "city": "Diano San Pietro",
+      "lat": "43.9298991000000",
+      "lng": "8.0697585000000",
+      "type": "672",
+      "phone": "0183 494342"
+   },
+   {
+      "id": "15647",
+      "name": "Gregorio De Gregoris",
+      "address": "Via Consolare Capocroce, 4066",
+      "city": "Sonnino",
+      "lat": "41.3970604000000",
+      "lng": "13.2000716000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15707",
+      "name": "Petrilli",
+      "address": "Via Scampata",
+      "city": "Flumeri",
+      "lat": "41.0837784000000",
+      "lng": "15.1571142000000",
+      "type": "672",
+      "phone": "0825 443319"
+   },
+   {
+      "id": "15731",
+      "name": "Case d'Alto",
+      "address": "Via Piave, 1",
+      "city": "Grottaminarda",
+      "lat": "41.0965696000000",
+      "lng": "14.9997235000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15510",
+      "name": "De Carlo",
+      "address": "Via XXIV Maggio, 54 B",
+      "city": "Bitritto",
+      "lat": "41.0361353000000",
+      "lng": "16.8304339000000",
+      "type": "672",
+      "phone": "080 630767"
+   },
+   {
+      "id": "15672",
+      "name": "Anna Maria Giacobbe",
+      "address": "",
+      "city": "Flumeri",
+      "lat": "41.0804702000000",
+      "lng": "15.1609838000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15625",
+      "name": "5F",
+      "address": "Strada Provinciale per Cesio",
+      "city": "Chiusanico",
+      "lat": "43.9756399000000",
+      "lng": "7.9913685000000",
+      "type": "672",
+      "phone": "0183 52744"
+   },
+   {
+      "id": "15504",
+      "name": "Valle D'Itri",
+      "address": "Contrada Raino, 70",
+      "city": "Itri",
+      "lat": "41.3128764000000",
+      "lng": "13.5334148000000",
+      "type": "672",
+      "phone": "0771 311042"
+   },
+   {
+      "id": "15602",
+      "name": "Taverna Setteventi",
+      "address": "Via Corridoio",
+      "city": "Flumeri",
+      "lat": "41.0762162000000",
+      "lng": "15.1303893000000",
+      "type": "672",
+      "phone": "0825 443367"
+   },
+   {
+      "id": "15586",
+      "name": "Il Simposio",
+      "address": "Via Santa Maria Goretti, 211",
+      "city": "Nettuno",
+      "lat": "41.4921872000000",
+      "lng": "12.7149599000000",
+      "type": "672",
+      "phone": "06 9858473"
+   },
+   {
+      "id": "15551",
+      "name": "Maria Ianniciello",
+      "address": "Via Barricella, 65",
+      "city": "Grottaminarda",
+      "lat": "41.0716700000000",
+      "lng": "15.0434100000000",
+      "type": "672",
+      "phone": "0825 446003"
+   },
+   {
+      "id": "15703",
+      "name": "Muaje",
+      "address": "Via Collette, 74",
+      "city": "Imperia",
+      "lat": "43.9052094000000",
+      "lng": "8.0317864000000",
+      "type": "672",
+      "phone": "0183 54016"
+   },
+   {
+      "id": "15450",
+      "name": "Monte della Torre",
+      "address": "Strada Statale Appia, km 184,500",
+      "city": "Francolise",
+      "lat": "41.1803950000000",
+      "lng": "14.0607593000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15449",
+      "name": "Oleificio Fam",
+      "address": "Contrada Ilici, 5",
+      "city": "Venticano",
+      "lat": "41.0541791000000",
+      "lng": "14.9071298000000",
+      "type": "672",
+      "phone": "0825 965829"
+   },
+   {
+      "id": "15774",
+      "name": "Cosmo Di Russo",
+      "address": "Via Bologna, 20",
+      "city": "Gaeta",
+      "lat": "41.2493253000000",
+      "lng": "13.5751473000000",
+      "type": "672",
+      "phone": "0771 462201"
+   },
+   {
+      "id": "15757",
+      "name": "Frantoiani del Vulture",
+      "address": "Contrada Le Tufarelle",
+      "city": "Venosa",
+      "lat": "40.9802050000000",
+      "lng": "15.8468981000000",
+      "type": "672",
+      "phone": "0972 32639"
+   },
+   {
+      "id": "15601",
+      "name": "Il Mulino della Signora",
+      "address": "Contrada Sterparo, 1",
+      "city": "Sturno",
+      "lat": "41.0255310000000",
+      "lng": "15.1054275000000",
+      "type": "672",
+      "phone": "0825 437207"
+   },
+   {
+      "id": "15525",
+      "name": "Benza Frantoiano",
+      "address": "Via Dolcedo,  180",
+      "city": "Imperia",
+      "lat": "43.8881878000000",
+      "lng": "7.9846888000000",
+      "type": "672",
+      "phone": "0183 280132"
+   },
+   {
+      "id": "15626",
+      "name": "VisAmoris",
+      "address": "Strada Privata Molino Javè, 23",
+      "city": "Imperia",
+      "lat": "43.8921641000000",
+      "lng": "7.9800400000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15503",
+      "name": "Mandrarita",
+      "address": "Contrada Santo Stefano, 47-49",
+      "city": "Itri",
+      "lat": "41.2575100000000",
+      "lng": "13.5159449000000",
+      "type": "672",
+      "phone": "0771 729186"
+   },
+   {
+      "id": "15751",
+      "name": "D'Orazio",
+      "address": "Via dell'Ulivo, 1",
+      "city": "Conversano",
+      "lat": "40.9772300000000",
+      "lng": "17.1127052000000",
+      "type": "672",
+      "phone": "080 4955442"
+   },
+   {
+      "id": "15605",
+      "name": "Fontana Madonna",
+      "address": "Via Fontana Madonna, 16",
+      "city": "Frigento",
+      "lat": "41.0144400000000",
+      "lng": "15.0838900000000",
+      "type": "672",
+      "phone": "0825 444647"
+   },
+   {
+      "id": "15643",
+      "name": "Rocca Normanna",
+      "address": "Piazza Cristo Re, 16",
+      "city": "Fontanarosa",
+      "lat": "41.0166170000000",
+      "lng": "15.0164902000000",
+      "type": "672",
+      "phone": "0825 1885431"
+   },
+   {
+      "id": "15709",
+      "name": "Fattoria Maria Petrillo",
+      "address": "Via Fratte, 4",
+      "city": "Lapio",
+      "lat": "40.9879205000000",
+      "lng": "14.9492004000000",
+      "type": "672",
+      "phone": "339 4753881"
+   },
+   {
+      "id": "15684",
+      "name": "Angelo Barbieri",
+      "address": "Via Acquara, 16",
+      "city": "Paternopoli",
+      "lat": "40.9725640000000",
+      "lng": "15.0285610000000",
+      "type": "672",
+      "phone": "0827 71978"
+   },
+   {
+      "id": "15553",
+      "name": "Montuori",
+      "address": "Contrada Toppoli",
+      "city": "Villamaina",
+      "lat": "40.9634200000000",
+      "lng": "15.1001600000000",
+      "type": "672",
+      "phone": "0825 442175"
+   },
+   {
+      "id": "15588",
+      "name": "Renato Labolani",
+      "address": "Località Pian del Soglio",
+      "city": "Apricale",
+      "lat": "43.8881530000000",
+      "lng": "7.6733141000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15587",
+      "name": "Patrizio Gamba",
+      "address": "",
+      "city": "Apricale",
+      "lat": "43.8818776000000",
+      "lng": "7.6562529000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15526",
+      "name": "Paolo Cassini",
+      "address": "Via Roma, 62",
+      "city": "Isolabona",
+      "lat": "43.8797530000000",
+      "lng": "7.6389320000000",
+      "type": "672",
+      "phone": "0184 208159"
+   },
+   {
+      "id": "15511",
+      "name": "Intini",
+      "address": "Contrada Popoleto",
+      "city": "Alberobello",
+      "lat": "40.7884619000000",
+      "lng": "17.2460789000000",
+      "type": "672",
+      "phone": "080 4325983"
+   },
+   {
+      "id": "15747",
+      "name": "San Martino",
+      "address": "Via Armanna Superiore, 43",
+      "city": "Imperia",
+      "lat": "43.8340432000000",
+      "lng": "7.6718139000000",
+      "type": "672",
+      "phone": "0183 660305"
+   },
+   {
+      "id": "15671",
+      "name": "Masseria Giummetta",
+      "address": "Contrada Ottava, 16",
+      "city": "Fasano",
+      "lat": "40.7931366000000",
+      "lng": "17.4793339000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15595",
+      "name": "Il Frantoio",
+      "address": "Strada Statale 16, km 874",
+      "city": "Ostuni",
+      "lat": "40.7587287000000",
+      "lng": "17.5217183000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15462",
+      "name": "Frantoio Pietro Biscione",
+      "address": "Zona P.A.I.P., 1",
+      "city": "Cancellara",
+      "lat": "40.7206344000000",
+      "lng": "15.9112424000000",
+      "type": "672",
+      "phone": "0971 778009"
+   },
+   {
+      "id": "15712",
+      "name": "Olio Sante",
+      "address": "Contrada Lamacavallo",
+      "city": "Ostuni",
+      "lat": "40.7401290000000",
+      "lng": "17.6117104000000",
+      "type": "672",
+      "phone": "0831 330700"
+   },
+   {
+      "id": "15594",
+      "name": "Sololio",
+      "address": "Via Tenente Antonio Specchia, 26",
+      "city": "Ostuni",
+      "lat": "40.7295235000000",
+      "lng": "17.5779979000000",
+      "type": "672",
+      "phone": "0831 332952"
+   },
+   {
+      "id": "15611",
+      "name": "Vincenzo Marvulli",
+      "address": "Via Dante, 9",
+      "city": "Matera",
+      "lat": "40.6688000000000",
+      "lng": "16.6007900000000",
+      "type": "672",
+      "phone": "0835 332568"
+   },
+   {
+      "id": "15759",
+      "name": "L'Uliveto",
+      "address": "",
+      "city": "Matera",
+      "lat": "40.6663790000000",
+      "lng": "16.6043199000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15713",
+      "name": "Pietrasanta",
+      "address": "Via Don Luigi Sturzo, 60",
+      "city": "Carovigno",
+      "lat": "40.7045312000000",
+      "lng": "17.6654484000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15651",
+      "name": "Le Ferre",
+      "address": "SS 7 km 610 + 125",
+      "city": "Castellaneta",
+      "lat": "40.6320550000000",
+      "lng": "16.9316489000000",
+      "type": "672",
+      "phone": "099 8493207"
+   },
+   {
+      "id": "15657",
+      "name": "Calemone",
+      "address": "Contrada Baccatani, 36",
+      "city": "Carovigno",
+      "lat": "40.6806002000000",
+      "lng": "17.8075643000000",
+      "type": "672",
+      "phone": "0831 555807"
+   },
+   {
+      "id": "15758",
+      "name": "Luciano Pepe",
+      "address": "Contrada Perretti, 1",
+      "city": "Albano di Lucania",
+      "lat": "40.6030580000000",
+      "lng": "16.0293610000000",
+      "type": "672",
+      "phone": "0971 984467"
+   },
+   {
+      "id": "15755",
+      "name": "Olio di San Vito",
+      "address": "Via Fabio Marchese, 4",
+      "city": "San Vito dei Normanni",
+      "lat": "40.6559668000000",
+      "lng": "17.7070000000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15616",
+      "name": "Barone di Visceglia",
+      "address": "Corso Vittorio Emanuele, 111",
+      "city": "Salerno",
+      "lat": "40.6761700000000",
+      "lng": "14.7683600000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15652",
+      "name": "Felice Bitetti",
+      "address": "Via Bernalda",
+      "city": "Ginosa",
+      "lat": "40.5782390000000",
+      "lng": "16.7591980000000",
+      "type": "672",
+      "phone": "099 8291911"
+   },
+   {
+      "id": "15559",
+      "name": "D'Erchie",
+      "address": "Via degli Ulivi, 1 A",
+      "city": "Montemesola",
+      "lat": "40.5720111000000",
+      "lng": "17.3362303000000",
+      "type": "672",
+      "phone": "099 5660096"
+   },
+   {
+      "id": "15715",
+      "name": "L'Olpe di Marco",
+      "address": "Strada Provinciale 46",
+      "city": "Statte",
+      "lat": "40.5610396000000",
+      "lng": "17.2107913000000",
+      "type": "672",
+      "phone": "099 4724474"
+   },
+   {
+      "id": "15444",
+      "name": "Antico Frantoio Mennella",
+      "address": "Campo Fiorito",
+      "city": "Serre",
+      "lat": "40.5805432233540",
+      "lng": "15.1545031463760",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15512",
+      "name": "Vetrère",
+      "address": "Strada Provinciale Monteiasi-Montemesola, km 16",
+      "city": "Taranto",
+      "lat": "40.5532534000000",
+      "lng": "17.3659760000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15463",
+      "name": "Giovanni Lacertosa",
+      "address": "Via Sinisgalli, 29",
+      "city": "Ferrandina",
+      "lat": "40.4977374000000",
+      "lng": "16.4562113000000",
+      "type": "672",
+      "phone": "0835 556098"
+   },
+   {
+      "id": "15624",
+      "name": "Moccari",
+      "address": "Via Sallustio, 22",
+      "city": "Mesagne",
+      "lat": "40.5577500000000",
+      "lng": "17.8341100000000",
+      "type": "672",
+      "phone": "0831 1810467"
+   },
+   {
+      "id": "15464",
+      "name": "La Majatica",
+      "address": "Via De Gasperi, 107",
+      "city": "San Mauro Forte",
+      "lat": "40.4843161000000",
+      "lng": "16.2537083000000",
+      "type": "672",
+      "phone": "0835 674113"
+   },
+   {
+      "id": "15566",
+      "name": "Stasi",
+      "address": "Masseria Arciprete",
+      "city": "Torre Santa Susanna",
+      "lat": "40.4550700000000",
+      "lng": "17.7284080000000",
+      "type": "672",
+      "phone": "0831 740439"
+   },
+   {
+      "id": "15552",
+      "name": "Il Vecchio Oliveto",
+      "address": "Via Gaiarda, 26",
+      "city": "Capaccio",
+      "lat": "40.4077460000000",
+      "lng": "15.0469680000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15695",
+      "name": "San Salvatore 1988",
+      "address": "Via Dioniso",
+      "city": "Giungano",
+      "lat": "40.3901078488740",
+      "lng": "15.0665349661010",
+      "type": "672",
+      "phone": "0828 1990900"
+   },
+   {
+      "id": "15678",
+      "name": "Tenute del Caricaturo",
+      "address": "Via Carrara dell'Arena, 6",
+      "city": "Padula",
+      "lat": "40.3337282119110",
+      "lng": "15.6271664762760",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15708",
+      "name": "Piero Matarazzo",
+      "address": "Località Noce Alta",
+      "city": "Perdifumo",
+      "lat": "40.2866376000000",
+      "lng": "14.9950171000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15617",
+      "name": "Salella",
+      "address": "Piazza Galileo Galilei, 14",
+      "city": "Salento",
+      "lat": "40.2521623859770",
+      "lng": "15.1956003365170",
+      "type": "672",
+      "phone": "0974 67099"
+   },
+   {
+      "id": "15554",
+      "name": "Rosa Giordano",
+      "address": "Via Napoli, 52",
+      "city": "Casal Velino",
+      "lat": "40.2036290000000",
+      "lng": "15.1097710000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15508",
+      "name": "Francesca Stajano",
+      "address": "Via Umberto I, 28",
+      "city": "Lecce",
+      "lat": "40.0665398000000",
+      "lng": "18.0645220000000",
+      "type": "672",
+      "phone": "0833 281070"
+   },
+   {
+      "id": "15466",
+      "name": "Arcaverde",
+      "address": "Via Roma, 20",
+      "city": "Cerchiara di Calabria",
+      "lat": "39.8600520000000",
+      "lng": "16.3812580000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15692",
+      "name": "Congedi",
+      "address": "Via Mare",
+      "city": "Ugento",
+      "lat": "39.9221551000000",
+      "lng": "18.1570669000000",
+      "type": "672",
+      "phone": "0833 555263"
+   },
+   {
+      "id": "15689",
+      "name": "Diana",
+      "address": "Contrada Mileo s.n.c.",
+      "city": "Saracena",
+      "lat": "39.7792265000000",
+      "lng": "16.1570579000000",
+      "type": "672",
+      "phone": "0981 349148"
+   },
+   {
+      "id": "15656",
+      "name": "Frantolio Acri",
+      "address": "Via Antonio Madeo, 21-25",
+      "city": "Corigliano Rossano",
+      "lat": "39.6099231000000",
+      "lng": "16.6339153000000",
+      "type": "672",
+      "phone": "0983 500037"
+   },
+   {
+      "id": "15468",
+      "name": "Olearia Geraci",
+      "address": "Contrada Irpietro",
+      "city": "Corigliano Calabro",
+      "lat": "39.6028238000000",
+      "lng": "16.5382902000000",
+      "type": "672",
+      "phone": "0983 891835"
+   },
+   {
+      "id": "15482",
+      "name": "Vulcano",
+      "address": "Contrada Vallelunga",
+      "city": "Crosia",
+      "lat": "39.6044500000000",
+      "lng": "16.7760720000000",
+      "type": "672",
+      "phone": "0983 42185"
+   },
+   {
+      "id": "15584",
+      "name": "Frantoio Figoli",
+      "address": "Contrada Ogliastretti",
+      "city": "Corigliano Calabro",
+      "lat": "39.5975211000000",
+      "lng": "16.5617458000000",
+      "type": "672",
+      "phone": "0983 82081"
+   },
+   {
+      "id": "15610",
+      "name": "Donato Parisi",
+      "address": "Contrada Scinetto s.n.c.",
+      "city": "Corigliano Rossano",
+      "lat": "39.5960674000000",
+      "lng": "16.6349960000000",
+      "type": "672",
+      "phone": "0983 64956"
+   },
+   {
+      "id": "15465",
+      "name": "Le Conche",
+      "address": "Contrada Franci, 2",
+      "city": "Bisignano",
+      "lat": "39.5125830000000",
+      "lng": "16.2870302000000",
+      "type": "672",
+      "phone": "0984 943982"
+   },
+   {
+      "id": "15775",
+      "name": "Tenuta Fabiano",
+      "address": "Via Cristoforo Colombo, 70",
+      "city": "Rende",
+      "lat": "39.3680303000000",
+      "lng": "16.2393986000000",
+      "type": "672",
+      "phone": "0984 838620"
+   },
+   {
+      "id": "15467",
+      "name": "Antonio e Nicodemo Librandi",
+      "address": "Strada Statale 106",
+      "city": "Cirò Marina",
+      "lat": "39.3764658000000",
+      "lng": "17.1178307000000",
+      "type": "672",
+      "phone": "0962 31518"
+   },
+   {
+      "id": "15615",
+      "name": "Giuseppe Brozzu",
+      "address": "Via Cristoforo Colombo, 15",
+      "city": "Castelsardo",
+      "lat": "40.9132099000000",
+      "lng": "8.7143844000000",
+      "type": "672",
+      "phone": "079 470381"
+   },
+   {
+      "id": "15688",
+      "name": "Antonio Cristiano",
+      "address": "Contrada Angillito",
+      "city": "Lamezia Terme",
+      "lat": "38.9629120000000",
+      "lng": "16.3092719000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15483",
+      "name": "I Tesori del Sole",
+      "address": "Contrada Feudo",
+      "city": "Lamezia Terme",
+      "lat": "38.9302940000000",
+      "lng": "16.2680120000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15675",
+      "name": "Agriturismo Costantino",
+      "address": "Località Donnantonio s.n.c.",
+      "city": "Maida",
+      "lat": "38.8747470000000",
+      "lng": "16.3357680000000",
+      "type": "672",
+      "phone": "0968 754332"
+   },
+   {
+      "id": "15654",
+      "name": "Sebastiano Fadda",
+      "address": "Via Santa Maria, 57",
+      "city": "Oliena",
+      "lat": "40.2730626000000",
+      "lng": "9.4051175000000",
+      "type": "672",
+      "phone": "0784 285292"
+   },
+   {
+      "id": "15577",
+      "name": "Giuseppe Gabbas",
+      "address": "Via Trieste, 59",
+      "city": "Nuoro",
+      "lat": "40.2724220000000",
+      "lng": "9.3611900000000",
+      "type": "672",
+      "phone": "0784 33745"
+   },
+   {
+      "id": "15720",
+      "name": "Arcobaleno",
+      "address": "Località Piano di Porro s.n.c.",
+      "city": "Girifalco",
+      "lat": "38.8043917000000",
+      "lng": "16.4377463000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15716",
+      "name": "Giacomo Nieddu",
+      "address": "Via San Michele, 34",
+      "city": "Bolotana",
+      "lat": "40.3252592000000",
+      "lng": "8.9603861000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15497",
+      "name": "Accademia Olearia",
+      "address": "Via Carbonai",
+      "city": "Alghero",
+      "lat": "40.5840179000000",
+      "lng": "8.3314032000000",
+      "type": "672",
+      "phone": "079 980394"
+   },
+   {
+      "id": "15498",
+      "name": "Antica Compagnia Olearia Sarda",
+      "address": "Via Vittorio Emanuele, 225",
+      "city": "Alghero",
+      "lat": "40.5749615000000",
+      "lng": "8.3202529000000",
+      "type": "672",
+      "phone": "079 951597"
+   },
+   {
+      "id": "15561",
+      "name": "Mafrica",
+      "address": "Via Muzzupappa",
+      "city": "Limbadi",
+      "lat": "38.5537913000000",
+      "lng": "15.9734237000000",
+      "type": "672",
+      "phone": "0963 85479"
+   },
+   {
+      "id": "15486",
+      "name": "Olearia San Giorgio",
+      "address": "Contrada Ricevuto, 18",
+      "city": "San Giorgio Morgeto",
+      "lat": "38.3915890000000",
+      "lng": "16.0752730000000",
+      "type": "672",
+      "phone": "0966 935321"
+   },
+   {
+      "id": "15487",
+      "name": "Barranca",
+      "address": "Contrada Lucis Romano",
+      "city": "Siderno",
+      "lat": "38.2747890000000",
+      "lng": "16.2649630000000",
+      "type": "672",
+      "phone": "0964 381179"
+   },
+   {
+      "id": "15653",
+      "name": "Corte Olìas",
+      "address": "Vico V Roma, 8",
+      "city": "Escolca",
+      "lat": "39.6973620000000",
+      "lng": "9.1237600000000",
+      "type": "672",
+      "phone": "0782 807045"
+   },
+   {
+      "id": "15499",
+      "name": "Francesco Atzori",
+      "address": "Strada Provinciale 4,  Km 2,5",
+      "city": "Cabras",
+      "lat": "39.9293720000000",
+      "lng": "8.5349028000000",
+      "type": "672",
+      "phone": "0783 290576"
+   },
+   {
+      "id": "15756",
+      "name": "Franco Ledda",
+      "address": "Via La Maddalena, 3",
+      "city": "Oristano",
+      "lat": "39.8959471000000",
+      "lng": "8.6049285000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15540",
+      "name": "Disisa",
+      "address": "Via Roma, 392",
+      "city": "Palermo",
+      "lat": "38.1235308000000",
+      "lng": "13.3596643000000",
+      "type": "672",
+      "phone": "091 6127109"
+   },
+   {
+      "id": "15576",
+      "name": "Masoni Becciu",
+      "address": "Via Mazzini, 30",
+      "city": "Villacidro",
+      "lat": "39.4588470000000",
+      "lng": "8.7386430000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15717",
+      "name": "Raineri",
+      "address": "Via Marsala, 73",
+      "city": "Trapani",
+      "lat": "38.0187702000000",
+      "lng": "12.5318139000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15764",
+      "name": "Antico Baglio",
+      "address": "Strada provinciale Trapani Salemi, 160 A",
+      "city": "Paceco",
+      "lat": "37.9875970000000",
+      "lng": "12.5760780000000",
+      "type": "672",
+      "phone": "0923 881279"
+   },
+   {
+      "id": "15539",
+      "name": "Baglio Ingardia",
+      "address": "Strada Provinciale Trapani Salemi, 162",
+      "city": "Paceco",
+      "lat": "37.9872582000000",
+      "lng": "12.5760749000000",
+      "type": "672",
+      "phone": "0923 882863"
+   },
+   {
+      "id": "15628",
+      "name": "Zichichi",
+      "address": "Via Pozzo Rocca, 1",
+      "city": "Erice",
+      "lat": "37.9612480000000",
+      "lng": "12.6869140000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15767",
+      "name": "Vultaggio",
+      "address": "Contrada Misiliscemi,  4",
+      "city": "Trapani",
+      "lat": "37.9188150000000",
+      "lng": "12.5666700000000",
+      "type": "672",
+      "phone": "0923 864261"
+   },
+   {
+      "id": "15542",
+      "name": "Titone",
+      "address": "Via Piro, 68",
+      "city": "Trapani",
+      "lat": "37.9209532000000",
+      "lng": "12.5067374000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15541",
+      "name": "Olivoil",
+      "address": "Via Pergole, 57",
+      "city": "Partanna",
+      "lat": "37.7239072000000",
+      "lng": "12.8948655000000",
+      "type": "672",
+      "phone": "091 6524711"
+   },
+   {
+      "id": "15537",
+      "name": "Caruso & Minini",
+      "address": "Via Salemi, 3",
+      "city": "Marsala",
+      "lat": "37.7921685000000",
+      "lng": "12.4511991000000",
+      "type": "672",
+      "phone": "0923 982356"
+   },
+   {
+      "id": "15768",
+      "name": "Sciabica",
+      "address": "Via Bonsignore, 42",
+      "city": "Castelvetrano",
+      "lat": "37.6777233000000",
+      "lng": "12.7915412000000",
+      "type": "672",
+      "phone": "0924 89538"
+   },
+   {
+      "id": "15632",
+      "name": "Centonze",
+      "address": "Strada Statale 115 direzione Selinunte, 103",
+      "city": "Castelvetrano",
+      "lat": "37.6665348000000",
+      "lng": "12.7855842000000",
+      "type": "672",
+      "phone": "0924 904231"
+   },
+   {
+      "id": "15538",
+      "name": "Planeta",
+      "address": "Contrada Dispensa",
+      "city": "Menfi",
+      "lat": "37.5979100000000",
+      "lng": "13.0277720000000",
+      "type": "672",
+      "phone": "091 327965"
+   },
+   {
+      "id": "15773",
+      "name": "Marco Bonsignore",
+      "address": "Contrada Belice di Mare, 612",
+      "city": "Castelvetrano",
+      "lat": "37.5902956000000",
+      "lng": "12.8590075000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15683",
+      "name": "Olio Arkè e Natura",
+      "address": "Contrada Grotta D'Acqua",
+      "city": "Serradifalco",
+      "lat": "37.4216989000000",
+      "lng": "13.9504870000000",
+      "type": "672",
+      "phone": "0934 931587"
+   },
+   {
+      "id": "15636",
+      "name": "Val Paradiso",
+      "address": "Piazza Cavour, 63",
+      "city": "Favara",
+      "lat": "37.3148052000000",
+      "lng": "13.6603794000000",
+      "type": "672",
+      "phone": "0922 419555"
+   },
+   {
+      "id": "15631",
+      "name": "Salamone",
+      "address": "Via Diodoro Siculo, 2",
+      "city": "Agrigento",
+      "lat": "37.3082715000000",
+      "lng": "13.5916812000000",
+      "type": "672",
+      "phone": "0922 23878"
+   },
+   {
+      "id": "15681",
+      "name": "Oleificio Lu Trappitu",
+      "address": "Via Prampolini, 39",
+      "city": "Campobello di Licata",
+      "lat": "37.2591449000000",
+      "lng": "13.9213520000000",
+      "type": "672",
+      "phone": "0922 870034"
+   },
+   {
+      "id": "15534",
+      "name": "Team 4x4",
+      "address": "Contrada Piana",
+      "city": "Buccheri",
+      "lat": "37.1310690000000",
+      "lng": "14.8810590000000",
+      "type": "672",
+      "phone": "0931 1756589"
+   },
+   {
+      "id": "15535",
+      "name": "Vernera",
+      "address": "Corso Umberto, 21-23",
+      "city": "Buccheri",
+      "lat": "37.1251870000000",
+      "lng": "14.8513540000000",
+      "type": "672",
+      "phone": "338 3622868"
+   },
+   {
+      "id": "15682",
+      "name": "Frantoio Galioto",
+      "address": "Ronco D'Aquile, 1",
+      "city": "Ferla",
+      "lat": "37.1181040000000",
+      "lng": "14.9407220000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15533",
+      "name": "Agrestis",
+      "address": "Via Pappalardo, 11",
+      "city": "Buccheri",
+      "lat": "37.1235239000000",
+      "lng": "14.8525824000000",
+      "type": "672",
+      "phone": "0931 315353"
+   },
+   {
+      "id": "15536",
+      "name": "Cinque Colli",
+      "address": "Via Monti Iblei, 88",
+      "city": "Chiaramonte Gulfi",
+      "lat": "37.0310751000000",
+      "lng": "14.7031720000000",
+      "type": "672",
+      "phone": "0932 921643"
+   },
+   {
+      "id": "15733",
+      "name": "Viragì",
+      "address": "Via Gulfi, 213",
+      "city": "Chiaramonte Gulfi",
+      "lat": "37.0302427000000",
+      "lng": "14.6975792000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15575",
+      "name": "Mandranova",
+      "address": "Strada Statale 115, km 217",
+      "city": "Palma di Montechiaro",
+      "lat": "37.0957400000000",
+      "lng": "13.4825900000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "15718",
+      "name": "Antonino Musso",
+      "address": "Via Verdi, 1",
+      "city": "Noto",
+      "lat": "36.8877517000000",
+      "lng": "15.0660761000000",
+      "type": "672",
+      "phone": ""
+   },
+   {
+      "id": "1",
+      "name": "La posizione geolocalizzata",
+      "address": "",
+      "city": "",
+      "lat": "48.2184058",
+      "lng": "16.374796099999998",
+      "type": "me",
+      "phone": ""
+   }
+]
